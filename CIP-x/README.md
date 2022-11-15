@@ -104,3 +104,5 @@ To be determined
 
 This CIP is licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/legalcode)
 
+[DMCA Protected Item](https://www.dmca.com/r/69428j8)
+
