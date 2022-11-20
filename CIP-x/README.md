@@ -6,7 +6,7 @@
 
 CIP: ?  
 Title: I Gave at the Office  
-Authors: Oliver A. Sterzik <support@paradoxicalsphere.com>  
+Authors: Oliver A. Sterzik <oliver@keywaycounselling.com>  
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
