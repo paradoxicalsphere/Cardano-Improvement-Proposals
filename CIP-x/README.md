@@ -89,7 +89,7 @@ Please take into consideration the following recent related discussions and arti
     - [Report Cardano Node Software and Commit Version for Each Stake Pool](https://github.com/papacarp/pooltool.io/issues/173)
 * Articles
     - [Waves founder [Sasha Ivanov]: DAOs will never work without fixing governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
-	- [Toss in your job and make $300K working for a DAO? Here's [not] how](https://cointelegraph.com/magazine/2022/09/22/toss-in-your-job-and-make-300k-working-for-a-dao-heres-how)
+	- [Toss in your job and make $300K working for a DAO? Here's how](https://cointelegraph.com/magazine/2022/09/22/toss-in-your-job-and-make-300k-working-for-a-dao-heres-how)
     - [Pope Francis appeals to young people to save the planet, find peace](https://www.theglobeandmail.com/world/article-pope-francis-appeals-to-young-people-to-save-the-planet-find-peace/)
 
 ## Backwards Compatibility
