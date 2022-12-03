@@ -16,7 +16,7 @@ License: CC-BY-4.0
 
 ## Abstract
 
-The Cardano protocol is not perfect. With proper governance, the protocol may not require perfection. The current draft CIP aims to improve governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees.
+Are you interested in the possibility of open-minded, progressive and compassionate governance for Cardano? The Cardano protocol is not perfect. With proper governance, the protocol may not require perfection. The current draft CIP aims to improve governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees with the support of their employers as well as the Cardano community.
 
 ## Motivation
 
