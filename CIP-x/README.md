@@ -10,7 +10,7 @@ Authors: Paradoxical Sphere <support@paradoxicalsphere.com>
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
-License: CC-BY-4.0  
+License: DMCA  
 
 ---
 
