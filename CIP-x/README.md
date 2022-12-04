@@ -103,4 +103,4 @@ To be determined
 
 ## Copyright
 
-This CIP is licensed under CC-BY-4.0 ([Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode))
+[DMCA Protected Item](https://www.dmca.com/r/69428j8) ([What is DMCA?](https://www.dmca.com/FAQ/What-is-DMCA))
