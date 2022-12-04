@@ -6,7 +6,7 @@
 
 CIP: ?  
 Title: It Takes a Village  
-Authors: Paradoxical Sphere <support@paradoxicalsphere.com>
+Authors: Paradoxical Sphere <support@paradoxicalsphere.com>  
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
