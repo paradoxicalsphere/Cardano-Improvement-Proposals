@@ -82,9 +82,6 @@ Please take into consideration the following recent related discussions and arti
     - [Please help with checking my Stakepool configuration](https://forum.cardano.org/t/please-help-with-checking-my-stakepool-configuration/101824/64)
     - [340 ADA Pool Fee is becoming more of a concern](https://forum.cardano.org/t/340-ada-pool-fee-is-becoming-more-of-a-concern/107035)
     - [Why 340 Ada min fee is not being reduced](https://forum.cardano.org/t/why-340-ada-min-fee-is-not-being-reduced/107412)
-    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
-    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
-    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720/13)
     - [Announcing the stake pools chosen for October 2022](https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/38)
     - [Report Cardano Node Software and Commit Version for Each Stake Pool](https://github.com/papacarp/pooltool.io/issues/173)
 * Articles
