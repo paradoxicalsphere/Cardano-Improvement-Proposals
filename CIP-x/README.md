@@ -83,6 +83,7 @@ Please take into consideration the following recent related discussions and arti
     - [340 ADA Pool Fee is becoming more of a concern](https://forum.cardano.org/t/340-ada-pool-fee-is-becoming-more-of-a-concern/107035)
     - [Why 340 Ada min fee is not being reduced](https://forum.cardano.org/t/why-340-ada-min-fee-is-not-being-reduced/107412)
     - [Announcing the stake pools chosen for October 2022](https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/38)
+    - [No Blocks Generated in Last Two Epochs](https://forum.cardano.org/t/no-blocks-generated-in-last-two-epochs/110662)
 * Articles
     - [Waves founder [Sasha Ivanov]: DAOs will never work without fixing governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
     - [Toss in your job and make $300K working for a DAO? Here's how](https://cointelegraph.com/magazine/2022/09/22/toss-in-your-job-and-make-300k-working-for-a-dao-heres-how)
