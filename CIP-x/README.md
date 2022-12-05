@@ -91,7 +91,10 @@ Please take into consideration the following recent related discussions and arti
     - [Waves founder [Sasha Ivanov]: DAOs will never work without fixing governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
     - [Toss in your job and make $300K working for a DAO? Here's how](https://cointelegraph.com/magazine/2022/09/22/toss-in-your-job-and-make-300k-working-for-a-dao-heres-how)
     - [Pope Francis appeals to young people to save the planet, find peace](https://www.theglobeandmail.com/world/article-pope-francis-appeals-to-young-people-to-save-the-planet-find-peace/)
-    -  [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works) (see also [PIVX Decentralized Governance](https://pivx.org/governance))
+    - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works) (see also [PIVX Decentralized Governance](https://pivx.org/governance))
+* Related Links
+    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
+    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
 
 ## Backwards Compatibility
 
