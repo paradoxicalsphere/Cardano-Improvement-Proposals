@@ -16,7 +16,7 @@ License: DMCA
 
 ## Abstract
 
-Are you interested in the potential for open-minded, inclusive, progressive and compassionate governance for Cardano? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection. The supply of stake pools far exceeds the demand from delegators. Increasing demand to meet the supply produces a net effect of growing the Cardano economy. The current draft CIP aims to improve governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees with the support of their employers as well as the Cardano community.
+Are you interested in the potential for open-minded, inclusive, progressive and compassionate governance for Cardano? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection. The supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current draft CIP aims to improve governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees with the support of their employers as well as the Cardano community.
 
 ## Motivation
 
