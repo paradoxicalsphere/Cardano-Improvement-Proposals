@@ -29,7 +29,7 @@ As William Poundstone describes in the book [_Prisoner's Dilemma_](https://www.w
 - If Prisoner A and Prisoner B both defect—that is, betray each other—then each prisoner serves two years in prison.
 - If Prisoner A betrays Prisoner B and Prisoner B remains silent, then Prisoner A will be set free and Prisoner B will serve three years in prison.
 - If Prisoner A remains silent and Prisoner B betrays Prisoner A, then Prisoner A will serve three years in prison and Prisoner B will be set free.
-- If Prisoner A and Prisoner B both do **not** defect—that is, Prisoner A and Prisoner B both do **not** betray the other—and both remain silent, then both prisoners will serve one year in prison (on the lesser charge).
+- If Prisoner A and Prisoner B both do **not** defect—that is, Prisoner A and Prisoner B both do **not** betray each other—and both remain silent, then both prisoners will serve one year in prison (on the lesser charge).
 
 Communication between the Cardano stake pool operator community and employees of Input Output, Cardano Foundation and EMURGO is limited. Also, IO, CF, EMURGO and the SPO community share a common interest in achieving Cardano's success.
 
