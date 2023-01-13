@@ -75,7 +75,7 @@ The following primary stakeholders are identified:
 
 With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of [decentralized autonomous organization (DAO)](https://www.fttdao.com/blog/what-is-dao/) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
 
-Please take into consideration the following recent related discussions and articles, listed somewhat in chronological order:
+Please consider the following recent related discussions and articles, listed somewhat in chronological order:
 
 * Discussions
     - [20 Epochs without a block averaging around 300,000 in stake](https://forum.cardano.org/t/20-epochs-without-a-block-averaging-around-300-000-in-stake/101527)
