@@ -65,9 +65,9 @@ For example, questions such as the following must be addressed:
 
 The following primary stakeholders are identified:
 
-- The Cardano stake pool operator community
+- The Cardano community
 - Input Output
-- IO employees
+- Input Output employees
 - The Cardano Foundation
 - Cardano Foundation employees
 - EMURGO
