@@ -86,8 +86,6 @@ Please consider the following recent related discussions and articles, listed so
     - [No Blocks Generated in Last Two Epochs](https://forum.cardano.org/t/no-blocks-generated-in-last-two-epochs/110662)
 * Articles
     - [Waves founder [Sasha Ivanov]: DAOs will never work without fixing governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
-    - [Toss in your job and make $300K working for a DAO? Here's how](https://cointelegraph.com/magazine/2022/09/22/toss-in-your-job-and-make-300k-working-for-a-dao-heres-how)
-    - [Pope Francis appeals to young people to save the planet, find peace](https://www.theglobeandmail.com/world/article-pope-francis-appeals-to-young-people-to-save-the-planet-find-peace/)
     - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works) (see also [PIVX Decentralized Governance](https://pivx.org/governance))
     - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
     - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
