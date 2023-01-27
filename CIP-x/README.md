@@ -73,7 +73,7 @@ The following primary stakeholders are identified:
 - EMURGO
 - EMURGO employees
 
-With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of [decentralized autonomous organization (DAO)](https://www.fttdao.com/blog/what-is-dao/) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
+With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of decentralized autonomous organization (DAO) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
 
 Please consider the following recent related discussions and articles, listed somewhat in chronological order:
 
