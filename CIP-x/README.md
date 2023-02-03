@@ -91,6 +91,7 @@ Please consider the following recent related discussions and articles, listed so
     - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works)
     - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
     - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
+    - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
 * Related Links
     - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
     - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
