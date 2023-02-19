@@ -89,6 +89,7 @@ Please consider the following recent related discussions and articles, listed so
 * Articles
     - [Waves founder [Sasha Ivanov]: DAOs will never work without fixing governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
     - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works)
+    - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/)
     - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
     - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
     - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
