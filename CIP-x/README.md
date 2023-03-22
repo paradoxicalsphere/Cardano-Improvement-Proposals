@@ -95,6 +95,7 @@ Please consider the following recent related discussions and articles, listed so
     - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
     - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
     - [History of Money: From Fiat to Crypto, Explained](https://cointelegraph.com/explained/history-of-money-from-fiat-to-crypto-explained)
+    - [Ethereum as a Deflationary Asset, Explained](https://cointelegraph.com/explained/ethereum-as-a-deflationary-asset-explained)
 * Related Links
     - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
     - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
