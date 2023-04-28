@@ -86,6 +86,7 @@ Please consider the following recent related discussions and articles, listed so
     - [Why 340 Ada min fee is not being reduced](https://forum.cardano.org/t/why-340-ada-min-fee-is-not-being-reduced/107412)
     - [Announcing the stake pools chosen for October 2022](https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/38)
     - [No Blocks Generated in Last Two Epochs](https://forum.cardano.org/t/no-blocks-generated-in-last-two-epochs/110662)
+    - [No Blocks Again... Everything Appears Normal. Bad Luck?](https://forum.cardano.org/t/no-blocks-again-everything-appears-normal-bad-luck-yyc-pool/114804/6)
 * Articles
     - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
     - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
