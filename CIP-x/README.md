@@ -22,7 +22,7 @@ Currently, the supply of stake pools exceeds the demand from delegators. Creatin
 
 ## Motivation
 
-Imagining a better world without Cardano is possible. Building a better world with the help of Cardano may be preferable. Changing the world without people changing is impossible. Trustless systems are meant to build trust.
+Imagining a better world without Cardano is possible. Building a better world with the help of Cardano may be preferable. Changing the world without people changing is impossible. In 1977, Hubert Humphrey, who served as US Vice President from 1965 to 1969, said, "The moral test of government is how that government treats those who are `[most vulnerable`]."<!-- https://atkinsbookshelf.wordpress.com/2018/02/21/famous-misquotations-a-civilization-is-measured-by-how-it-treats-its-weakest-members/ --> Trustless systems are meant to build trust.
 
 Central in the design of the Cardano protocol is [mathematical game theory](https://cardano.org/ouroboros/). In [mathematical game theory](https://en.wikipedia.org/wiki/Game_theory), the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) is a standard analyzed example.
 
