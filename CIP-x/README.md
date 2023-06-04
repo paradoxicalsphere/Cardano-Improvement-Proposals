@@ -91,7 +91,6 @@ Consider the following recent related discussions, articles and other resources,
     - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
     - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
     - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works)
-    <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/)
     - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
     - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
@@ -100,6 +99,7 @@ Consider the following recent related discussions, articles and other resources,
     - [Ethereum as a Deflationary Asset, Explained](https://cointelegraph.com/explained/ethereum-as-a-deflationary-asset-explained)
     - [ZKP Could Help Resolve Blockchain Tensions with GDPR](https://cointelegraph.com/innovation-circle/zkp-could-help-resolve-blockchain-tensions-with-gdpr)
     - [Joe Lubin: The Truth About ETH Founders Split and "Crypto Google"](https://cointelegraph.com/magazine/joe-lubin-the-truth-about-eth-founders-split-and-crypto-google)
+    <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
 * Other Resources
     <!--- [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf)-->
     - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
