@@ -10,7 +10,7 @@ Authors: Paradoxical Sphere <support@paradoxicalsphere.com>
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
-License: DMCA  
+License: CC-BY-4.0  
 
 ---
 
@@ -117,4 +117,4 @@ To be determined
 
 ## Copyright
 
-[DMCA Protected Item](https://www.dmca.com/r/69428j8) ([What is DMCA?](https://www.dmca.com/FAQ/What-is-DMCA))
+This CIP is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
