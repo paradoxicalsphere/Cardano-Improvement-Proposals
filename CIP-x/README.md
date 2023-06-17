@@ -59,7 +59,7 @@ For example, questions such as the following must be addressed:
 - How is privacy protected?
 - When required, how may records be securely destroyed?
 - How may the potential or need for changes or adjustments to the operational guidelines for such an initiative be managed?
-- What aspects of such an initiative be administered using smart contracts?
+- What aspects of such an initiative may be administered using smart contracts?
 - Would such an initiative affect existing delegation strategies that Input Output, Cardano Foundation and EMURGO currently may practice, and if so, how?
 
 <a name="tada"></a><sup>1</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA. 
