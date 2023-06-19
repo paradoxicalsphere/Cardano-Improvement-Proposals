@@ -81,7 +81,12 @@ With further stakeholder engagement and research, over the longer term perhaps t
 Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016. In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, he identifies the following risks associated with DAOs in practice. The list also explains how the current CIP aims to mitigate each identified risk:
 
 * <b>Token-weighted governance, in which users with the most tokens have the biggest share of voting power, can inadvertently end up handing over control to a few wealthy participants and stripping it away from the many</b>—The current CIP proposes that, in an initiative to allocate an amount of (t)ADA to employees solely for potential delegation to one or more stake pools based on the judgement of the individual employee, Input Output, Cardano Foundation and EMURGO as employers regulate weighted voting and tokenomics, establishing constraints at the management level to maintain a balance of voting power. Employee roles and responsibilities include the potential to delegate (t)ADA based on the terms and conditions of employment. In workplaces, managing roles and responsibilities while empowering employees to complete their day-to-day activities successfully is an existing fundamental requirement.
-* 
+*
+
+Ivanov's article also identifies the following opportunities. The list also explains how the current CIP aims to take advantage of each opportunity:
+
+* <b>DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision-making</b>—
+* <b>A voting structure based on meritocracy may be just what is needed</b>—[Meritocracy](https://www.merriam-webster.com/dictionary/merit#h1) is "a system, organization, or society in which people are chosen and moved into positions of success, power and influence on the basis of their demonstrated abilities and merit." Within the framework of a workplace, rewarding successes in achieving goals set for performance is a form of motivation. In relation to the current CIP, Input Output, Cardano Foundation and EMURGO may seek to reward employee contributions meeting or exceeding expectations with increased benefits and responsibilities related to allocation of discretionary (t)ADA, for example.
 
 Consider the following related discussions, articles and other resources, listed somewhat in chronological order:
 
