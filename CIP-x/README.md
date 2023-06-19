@@ -85,7 +85,7 @@ Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https:/
 
 Ivanov's article also identifies the following opportunities. The list also explains how the current CIP aims to take advantage of each opportunity:
 
-* <b>DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision-making</b>—
+* <b>DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making</b>—The current CIP proposes an approach for further decentralizing existing decision-making processes within Input Output, Cardano Foundation and EMURGO organizations related to stake pool delegations.
 * <b>A voting structure based on meritocracy may be just what is needed</b>—[Meritocracy](https://www.merriam-webster.com/dictionary/merit#h1) is "a system, organization, or society in which people are chosen and moved into positions of success, power and influence on the basis of their demonstrated abilities and merit." Within the framework of a workplace, rewarding successes in achieving goals set for performance is a form of motivation. In relation to the current CIP, Input Output, Cardano Foundation and EMURGO may seek to reward employee contributions meeting or exceeding expectations with increased benefits and responsibilities related to allocation of discretionary (t)ADA, for example.
 
 Consider the following related discussions, articles and other resources, listed somewhat in chronological order:
