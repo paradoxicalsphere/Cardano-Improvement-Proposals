@@ -20,6 +20,8 @@ Are you interested in more diverse, inclusive, progressive and compassionate gov
 
 Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current draft CIP aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
 
+The current CIP is drafted with consideration of the potential for submission as a governance action using the pending framework of [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694).
+
 ## Motivation
 
 Imagining a better world without Cardano is possible. Building a better world with the help of Cardano may be preferable. In 1977, Hubert Humphrey, who served as US Vice President from 1965 to 1969, said, "The moral test of government is how that government treats those who are \[most vulnerable\]."<!-- https://atkinsbookshelf.wordpress.com/2018/02/21/famous-misquotations-a-civilization-is-measured-by-how-it-treats-its-weakest-members/ --> Changing the world without people changing is impossible. Trustless systems are meant to build trust.
