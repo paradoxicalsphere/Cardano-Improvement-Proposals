@@ -91,7 +91,7 @@ In his article, Ivanov also identifies the following opportunities. The list als
 * <b>Imagine a new model, one where voting members are assessed against certain key performance indicators (KPIs) [involving] engagement and development metrics within the DAO... a failure to meet these KPIs can result in that user’s voting power being reduced or removed entirely</b>—[KPIs](https://www.qlik.com/us/kpi) are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level." Within organizations and workplaces, KPIs are already commonly in use. Existing organizational structures within Input Output, Cardano Foundation and EMURGO may provide a foundation well suited for implementing KPIs designed to enable and support the continuing operation of a stable DAO. As Ivanov points out, assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the community, not just themselves.
 
 <p align="center">
-    <img src="CIP-x/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/54ef0add82ca026b2bb42432b5b14075bcd16337/CIP-x/images/DAOs%20Within%20Workplaces.png" alt="" title="">
     <br>
     <i>Figure 1 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
 </p>
