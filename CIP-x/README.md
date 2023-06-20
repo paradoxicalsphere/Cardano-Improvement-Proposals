@@ -6,7 +6,7 @@
 
 CIP: ?  
 Title: It Takes a Village  
-Authors: Paradoxical Sphere <support@paradoxicalsphere.com>  
+Author: Oliver Sterzik <support@paradoxicalsphere.com>  
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
@@ -126,7 +126,9 @@ Listed somewhat in chronological order, consider the following related discussio
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
 * Other Resources
     <!--- [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf)-->
-    - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
+    <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
+    - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD
+    - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
 * Related Links
     - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
     - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
