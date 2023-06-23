@@ -154,7 +154,7 @@ For the employer to administer the new type of wallet address, the current CIP a
 * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
 * Send (t)ADA safely and securely <b>from</b> wallet addresses included in a closed set to one or more wallet addresses NOT belonging to any closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user
 
-Smart contracts that may be implemented in relation to the current CIP adhere to closed set definitions and permissions.
+Smart contracts that may be implemented in relation to the current CIP adhere to the definitions and permissions of closed sets.
 
 To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to each closed set, may be shared publicly.<sup><a href="#private">3</a></sup> The private signing key files for a wallet address belonging to a closed set is accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">4</a></sup>
 
