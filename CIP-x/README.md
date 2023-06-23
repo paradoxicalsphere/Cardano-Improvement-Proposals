@@ -146,7 +146,7 @@ To be determined
 
 ## Path to Active
 
-The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">2</a></sup> Wallet addresses assigned the new type are included in a closed set of wallet addresses, all having the same type. The CIP requires support for multiple closed sets. Wallet addresses included in a closed set belong to exactly one closed set, and no more. For employees, (t)ADA in a wallet address included in a closed set may only be sent to wallet addresses also included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
+The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">2</a></sup> Wallet addresses assigned the new type are included in a closed set of wallet addresses, all having the same type. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. For employees, (t)ADA in a wallet address included in a closed set may only be sent to wallet addresses also included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
 
 For the employer to administer the new type of wallet address, the current CIP also requires implementation of mechanisms to:
 * Create closed sets
