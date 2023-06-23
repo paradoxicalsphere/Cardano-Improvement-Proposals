@@ -21,7 +21,7 @@ Are you interested in more diverse, inclusive, progressive and compassionate gov
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
     <br>
-    <i>Figure 1 - Here to Help</i>
+    <i>Figure 1 - [Here to Help](https://xkcd.com/1831/)</i>
 </p>
 
 Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current draft CIP aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
