@@ -148,6 +148,8 @@ To be determined
 
 The current CIP introduces a requirement for a new type of wallet address key pair. Wallet addresses assigned the new type are included in a closed set of wallet addresses, all having the same type. (t)ADA held in a wallet address included in the set may only be sent to another wallet address also included in the same closed set. Wallet addresses assigned the new type maintain the existing functionality to delegate the wallet to a pool.
 
+The current CIP also requires implementation of a method to send and receive (t)ADA to and from one or more wallet addresses included in a closed set safely and securely for administrative purposes, without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the set—for end users.
+
 ## Copyright
 
 This CIP is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
