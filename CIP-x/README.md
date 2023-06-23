@@ -162,7 +162,7 @@ To implement the current CIP, each employee is assigned a unique closed set of w
 
 <a name="private"></a><sup>3</sup> The relationships between closed sets may be private.
 
-<a name="secret"></a><sup>4</sup> The private signing key file gives access to monies in the wallet address.
+<a name="secret"></a><sup>4</sup> The private signing key files give access to monies in the wallet address.
 
 ## Copyright
 
