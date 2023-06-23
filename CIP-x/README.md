@@ -22,6 +22,12 @@ Currently, the supply of stake pools exceeds the demand from delegators. Creatin
 
 The current CIP is drafted with consideration of the potential for submission as a governance action using the pending framework of [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694).
 
+<p align="center">
+    <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
+    <br>
+    <i>Figure 1 - Here to Help</i>
+</p>
+
 ## Motivation
 
 Imagining a better world without Cardano is possible. Building a better world with the help of Cardano may be preferable. In 1977, Hubert Humphrey, who served as US Vice President from 1965 to 1969, said, "The moral test of government is how that government treats those who are \[most vulnerable\]."<!-- https://atkinsbookshelf.wordpress.com/2018/02/21/famous-misquotations-a-civilization-is-measured-by-how-it-treats-its-weakest-members/ --> Changing the world without people changing is impossible. Trustless systems are meant to build trust.
@@ -95,7 +101,7 @@ In his article, Ivanov also identifies the following opportunities. The list als
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/656c36911185cd7ac78460b3a68edfe26593b6de/CIP-x/images/DAOs%20Within%20Workplaces.png" alt="" title="">
     <br>
-    <i>Figure 1 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
+    <i>Figure 2 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
 </p>
 
 As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/), the on-chain polling mechanism implemented via [CIP-0094](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0094) introduces an elegant mechanism to hear the voices of (t)ADA holders: "After the [poll or survey] question gets published, SPOs will have until the end of the next epoch to vote. A period of two additional epochs will then give stake delegators the time to consult the dashboards, see how SPOs voted, examine the results, and decide whether or not to redelegate their stake to another SPO." The current CIP may introduce an opportunity for employees to participate in the delegation or redelegation phase of on-chain polls or surveys using discretionary (t)ADA.
