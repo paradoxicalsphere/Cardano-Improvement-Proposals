@@ -150,7 +150,7 @@ The current CIP introduces a requirement for a new type of [wallet address key p
 
 For the employer to administer the new type of wallet address, the current CIP also requires implementation of a mechanism to send and receive (t)ADA safely and securely between one or more wallet addresses included in a closed set and one or more wallet addresses NOT included in the same closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user.
 
-To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. The private signing key file for a wallet address belonging to a closed set is accessible to the employee as well as to the employer.<sup><a href="#secret">3</a></sup>
+To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. The private signing key file for a wallet address belonging to a closed set is accessible only to the employee and employer.<sup><a href="#secret">3</a></sup>
 
 <a name="wallet"></a><sup>2</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
