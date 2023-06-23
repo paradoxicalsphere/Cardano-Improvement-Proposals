@@ -146,11 +146,13 @@ To be determined
 
 ## Path to Active
 
-The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs). Wallet addresses assigned the new type are included in a closed set of wallet addresses, all having the same type. Wallet addresses included in a closed set belong to exactly one closed set, and no more. (t)ADA held in a wallet address included in a closed set may only be sent to another wallet address also included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool.
+The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs). Wallet addresses assigned the new type are included in a closed set of wallet addresses, all having the same type. Wallet addresses included in a closed set belong to exactly one closed set, and no more. (t)ADA in a payment address for a wallet address included in a closed set may only be sent to another wallet address also included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
 
 To administer the new type of wallet address, the current CIP also requires implementation of a mechanism to send and receive (t)ADA safely and securely between one or more wallet addresses included in a closed set and one or more wallet addresses NOT included in the same closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the end user.
 
-To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. The private signing key file for a wallet address belonging to a closed set is accessible by the employee, as well as by the administrator.
+To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. The private signing key file for a wallet address belonging to a closed set is accessible by the employee, as well as by the administrator.<sup><a href="#secret">2</a></sup>
+
+<a name="secret"></a><sup>2</sup> The private signing key file gives you access to monies in the payment address for a wallet address.
 
 ## Copyright
 
