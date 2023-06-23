@@ -18,15 +18,15 @@ License: CC-BY-4.0
 
 Are you interested in more diverse, inclusive, progressive and compassionate governance for Cardano, as well as greater accountability for your investment in the ecosystem? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection.
 
-Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current draft CIP aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
-
-The current CIP is drafted with consideration of the potential for submission as a governance action using the pending framework of [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694).
-
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
     <br>
     <i>Figure 1 - Here to Help</i>
 </p>
+
+Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current draft CIP aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
+
+The current CIP is drafted with consideration of the potential for submission as a governance action using the pending framework of [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694).
 
 ## Motivation
 
