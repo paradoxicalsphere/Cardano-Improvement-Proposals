@@ -146,7 +146,7 @@ To be determined
 
 ## Path to Active
 
-To be determined
+The CIP introduces a requirement for a new type of wallet address key pair. Wallet addresses assigned the new type are included in a closed set of wallet addresses, all having the same type. (t)ADA held in a wallet address included in the set may only be sent to another wallet address included in the same closed set. Wallet addresses assigned the new type maintain the existing functionality to delegate the wallet to a pool.
 
 ## Copyright
 
