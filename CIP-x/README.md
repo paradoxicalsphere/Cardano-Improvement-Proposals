@@ -150,7 +150,7 @@ The current CIP introduces a requirement for a new type of [wallet address key p
 
 To administer the new type of wallet address, the current CIP also requires implementation of a mechanism to send and receive (t)ADA safely and securely between one or more wallet addresses included in a closed set and one or more wallet addresses NOT included in the same closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for end users.
 
-To implement the current CIP, each employee is assigned a unique closed set of wallet addresses.
+To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. The private signing key file for a wallet address belonging to a closed set is accessible by the employee, as well as by the administrator.
 
 ## Copyright
 
