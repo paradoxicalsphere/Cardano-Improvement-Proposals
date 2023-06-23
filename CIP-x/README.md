@@ -154,7 +154,7 @@ To implement the current CIP, each employee is assigned a unique closed set of w
 
 <a name="wallet"></a><sup>2</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
-<a name="secret"></a><sup>3</sup> The private signing key file gives access to monies in the wallet address.
+<a name="secret"></a><sup>3</sup> The private signing key file facilitates sending monies in the wallet address.
 
 ## Copyright
 
