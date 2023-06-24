@@ -150,7 +150,8 @@ The current CIP introduces a requirement for a new type of [wallet address key p
 
 For the employer to administer the new type of wallet address, the current CIP also requires implementation of mechanisms to:
 * Create closed sets
-* Add wallet addresses to closed sets, and remove wallet addresses from closed sets<sup><a href="#balances">3</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
+* Add wallet addresses to closed sets<sup><a href="#balances">3</a></sup>
+* Remove wallet addresses from closed sets<sup><a href="#balances">3</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
 <!-- * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
 * Send (t)ADA safely and securely <b>from</b> wallet addresses included in a closed set to one or more wallet addresses NOT belonging to any closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user -->
 
