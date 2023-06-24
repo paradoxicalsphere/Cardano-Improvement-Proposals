@@ -165,7 +165,7 @@ Any smart contracts that may support an implementation of the current CIP must e
 
 <a name="addwallets"></a><sup>4</sup> Wallet addresses may carry zero or non-zero balances.
 
-<a name="removewallets"></a><sup>5</sup> Only the employer—NOT the employee—may send (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
+<a name="removewallets"></a><sup>5</sup> Only the employer—NOT the employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
 
 ## Copyright
 
