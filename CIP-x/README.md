@@ -26,7 +26,7 @@ Are you interested in more diverse, inclusive, progressive and compassionate gov
 
 Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current CIP draft aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
 
-<a name="dependency"></a><sup>1</sup> To make decisions having a requirement to reach a desired consensus, the current CIP draft defers to a governance framework such as [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694).
+<a name="dependency"></a><sup>1</sup> To make decisions having a requirement to reach a desired consensus, the current CIP draft would defer to a token-weighted governance framework such as [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). The current CIP aims to offer an approach to mitigate risks that may be associated with a token-weighted governance model, in which users with the most tokens have the biggest share of voting power.
 
 ## Motivation
 
