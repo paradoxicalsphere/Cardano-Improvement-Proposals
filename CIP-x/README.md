@@ -152,7 +152,7 @@ To implement the current CIP, each employee is assigned a unique closed set of w
 
 For the employer to administer the new type of wallet address, the current CIP also requires implementation of new mechanisms to:
 * Create closed sets
-* Uniquely assign closed sets of wallet addresses to employees
+* Uniquely assign a closed set of wallet addresses to each employee
 * Add wallet addresses to closed sets<sup><a href="#addwallets">4</a></sup>
 * Remove wallet addresses from closed sets<sup><a href="#removewallets">5</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
 <!-- * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
