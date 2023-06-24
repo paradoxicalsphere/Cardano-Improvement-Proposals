@@ -16,7 +16,7 @@ License: CC-BY-4.0
 
 ## Abstract
 
-Are you interested in more diverse, inclusive, progressive and compassionate governance for Cardano, as well as greater accountability for your investment in the ecosystem? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection.
+Are you interested in more diverse, inclusive, progressive and compassionate governance for Cardano, as well as greater accountability for your investment in the ecosystem? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection.<sup><a href="#dependency">1</a></sup>
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
@@ -24,9 +24,9 @@ Are you interested in more diverse, inclusive, progressive and compassionate gov
     <i>Figure 1 - <a href="https://xkcd.com/1831/">Here to Help</a></i>
 </p>
 
-The idea of the current CIP draft depends on a larger governance framework such as [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694) for making decisions when a requirement exists for reaching an explicit consensus.
-
 Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current CIP draft aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
+
+<a name="dependency"></a><sup>1</sup> For making decisions that require explicit consensus, the current CIP draft depends on a governance framework such as [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694).
 
 ## Motivation
 
@@ -49,7 +49,7 @@ Often, discussion of the Prisoner's Dilemma seems to focus on logic, overlooking
 
 ## Specification
 
-The current draft CIP offers a proposal emerging from the Cardano community in the form of a process change empowering Input Output, Cardano Foundation and EMURGO employees with discretionary (t)ADA to delegate to stake pools in the Production (Mainnet) environment as well as any and all testing environments.<sup><a href="#tada">1</a></sup> In other words, the process change would make (t)ADA available to each IO, Cardano Foundation and EMURGO employee for delegation to one or more stake pools based on the judgement of the individual employee. <b>The process change aims to increase decentralization, transparency and agility of delegations to stake pools and related decisions that IO, the Cardano Foundation and EMURGO may make.</b>
+The current draft CIP offers a proposal emerging from the Cardano community in the form of a process change empowering Input Output, Cardano Foundation and EMURGO employees with discretionary (t)ADA to delegate to stake pools in the Production (Mainnet) environment as well as any and all testing environments.<sup><a href="#tada">2</a></sup> In other words, the process change would make (t)ADA available to each IO, Cardano Foundation and EMURGO employee for delegation to one or more stake pools based on the judgement of the individual employee. <b>The process change aims to increase decentralization, transparency and agility of delegations to stake pools and related decisions that IO, the Cardano Foundation and EMURGO may make.</b>
 
 To find a balance that may help vitalize employees as well as the SPO and wider Cardano communities without introducing risks to the security of Cardano networks or any other potential forms of instability, <b>analysis, planning, elicitation, management and communication are needed from Input Output, Cardano Foundation and EMURGO to gain knowledge in support of the proposed initiative for implementation internally within the respective organizations in order to complete a proposal capable of garnering sufficient community understanding and consensus so that the status of the current CIP may change toward Active</b>.
 
@@ -70,7 +70,7 @@ For example, questions such as the following must be addressed:
 - What aspects of such an initiative may be administered using smart contracts?
 - Would such an initiative affect existing delegation strategies that Input Output, Cardano Foundation and EMURGO currently may practice, and if so, how?
 
-<a name="tada"></a><sup>1</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA. 
+<a name="tada"></a><sup>2</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA. 
 
 ## Rationale
 
@@ -147,27 +147,27 @@ To be determined
 
 ## Path to Active
 
-The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">2</a></sup> Wallet addresses assigned the new type are included in a closed set of wallet addresses. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. Wallet addresses in a closed set may only send (t)ADA to or receive (t)ADA from wallet addresses included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
+The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">3</a></sup> Wallet addresses assigned the new type are included in a closed set of wallet addresses. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. Wallet addresses in a closed set may only send (t)ADA to or receive (t)ADA from wallet addresses included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
 
-To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to each closed set, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">3</a></sup>
+To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to each closed set, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">4</a></sup>
 
 For the employer to administer the new type of wallet address, the current CIP also requires implementation of new mechanisms to:
 * Create closed sets
 * Uniquely assign a closed set to an employee
-* Add wallet addresses to closed sets<sup><a href="#addwallets">4</a></sup>
-* Remove wallet addresses from closed sets<sup><a href="#removewallets">5</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
+* Add wallet addresses to closed sets<sup><a href="#addwallets">5</a></sup>
+* Remove wallet addresses from closed sets<sup><a href="#removewallets">6</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
 <!-- * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
 * Send (t)ADA safely and securely <b>from</b> wallet addresses included in a closed set to one or more wallet addresses NOT belonging to any closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user -->
 
 Any smart contracts that may support an implementation of the current CIP must enforce the existing definitions of closed sets.
 
-<a name="wallet"></a><sup>2</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
+<a name="wallet"></a><sup>3</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
-<a name="secret"></a><sup>3</sup> The private signing key files give access to monies in the wallet address.
+<a name="secret"></a><sup>4</sup> The private signing key files give access to monies in the wallet address.
 
-<a name="addwallets"></a><sup>4</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
+<a name="addwallets"></a><sup>5</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
 
-<a name="removewallets"></a><sup>5</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
+<a name="removewallets"></a><sup>6</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
 
 ## Copyright
 
