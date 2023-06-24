@@ -164,7 +164,7 @@ Any smart contracts that may support an implementation of the current CIP must e
 
 <a name="secret"></a><sup>3</sup> The private signing key files give access to monies in the wallet address.
 
-<a name="addwallets"></a><sup>4</sup> Wallet addresses may carry zero or non-zero balances. Only the employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
+<a name="addwallets"></a><sup>4</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
 
 <a name="removewallets"></a><sup>5</sup> Only the employer—NOT the employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
 
