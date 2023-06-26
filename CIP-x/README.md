@@ -26,7 +26,7 @@ Are you interested in more diverse, inclusive, progressive and compassionate gov
 
 Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current CIP draft aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
 
-<a name="dependency"></a><sup>1</sup> For decision-making processes requiring an end goal of consensus, the current CIP draft defers to token-weighted governance frameworks such as [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). The current CIP aims to offer an approach to mitigate potential risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.
+<a name="dependency"></a><sup>1</sup> For decision-making processes requiring an end goal of consensus, a dependency exists between the current CIP draft and a token-weighted governance framework such as [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). The current CIP aims to offer an approach to mitigate potential risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.
 
 ## Motivation
 
@@ -148,7 +148,7 @@ To be determined
 
 The current CIP introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">3</a></sup> Wallet addresses assigned the new type are included in a closed set—a subnet—of wallet addresses. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. A closed set may include an unlimited number of unique wallet addresses. Wallet addresses in a closed set may only send (t)ADA to or receive (t)ADA from wallet addresses included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
 
-To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to each closed set, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">4</a></sup>
+To implement the current CIP, each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to closed sets, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">4</a></sup>
 
 For the employer to administer the new type of wallet address, the current CIP also requires implementation of new mechanisms to:
 * Create closed sets
