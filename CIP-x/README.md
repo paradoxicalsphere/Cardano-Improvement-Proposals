@@ -136,6 +136,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD
     - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
     - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
+    - [Center for Humane Technology](https://www.humanetech.com/)
 * Related Links
     - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
     - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
