@@ -143,7 +143,7 @@ Listed somewhat in chronological order, consider the following related discussio
 
 <a name="questions"></a><sup>3</sup> The development of poll or survey questions is out of scope for the current proposal.
 
-## Sample Use Case: Addressing the Challenge of Multiple-Pool Operators
+## Example Use Case: Addressing the Challenge of Multiple-Pool Operators
 
 To be determined
 
