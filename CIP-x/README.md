@@ -106,41 +106,6 @@ In his article, Ivanov also identifies the following opportunities. The list als
 
 As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/), the on-chain polling mechanism implemented via [CIP-0094](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0094) introduces an elegant mechanism to hear the voices of (t)ADA holders: "After the [poll or survey] question gets published, SPOs will have until the end of the next epoch to vote. A period of two additional epochs will then give stake delegators the time to consult the dashboards, see how [or whether] SPOs voted, examine the results, and decide whether or not to redelegate their stake to another SPO." The on-chain polling mechanism may serve as a "space" having potential to help focus attention, share information and gain understanding of the (t)ADA-holding community.<sup><a href="#questions">3</a></sup> <b>Presenting data without first requiring a decision about which parameters to use and how to apply them to interpret or analyze the data may help create robust mechanisms for governance participation.</b> The current proposal may introduce an opportunity for employees to participate in the delegation or redelegation phase of on-chain polls or surveys using discretionary (t)ADA.
 
-Listed somewhat in chronological order, consider the following related discussions, articles and other resources as source materials:
-
-* Discussions
-    - [20 Epochs without a block averaging around 300,000 in stake](https://forum.cardano.org/t/20-epochs-without-a-block-averaging-around-300-000-in-stake/101527)
-    - [Please help with checking my Stakepool configuration](https://forum.cardano.org/t/please-help-with-checking-my-stakepool-configuration/101824/64)
-    - [340 ADA Pool Fee is becoming more of a concern](https://forum.cardano.org/t/340-ada-pool-fee-is-becoming-more-of-a-concern/107035)
-    - [Why 340 Ada min fee is not being reduced](https://forum.cardano.org/t/why-340-ada-min-fee-is-not-being-reduced/107412)
-    - [Announcing the stake pools chosen for October 2022](https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/38)
-    - [No Blocks Generated in Last Two Epochs](https://forum.cardano.org/t/no-blocks-generated-in-last-two-epochs/110662)
-    - [No Blocks Again... Everything Appears Normal. Bad Luck?](https://forum.cardano.org/t/no-blocks-again-everything-appears-normal-bad-luck-yyc-pool/114804)
-* Articles
-    - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
-    - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
-    - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works)
-    - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/)
-    - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
-    - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
-    - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
-    - [History of Money: From Fiat to Crypto, Explained](https://cointelegraph.com/explained/history-of-money-from-fiat-to-crypto-explained)
-    - [Ethereum as a Deflationary Asset, Explained](https://cointelegraph.com/explained/ethereum-as-a-deflationary-asset-explained)
-    - [ZKP Could Help Resolve Blockchain Tensions with GDPR](https://cointelegraph.com/innovation-circle/zkp-could-help-resolve-blockchain-tensions-with-gdpr)
-    - [Joe Lubin: The Truth About ETH Founders Split and "Crypto Google"](https://cointelegraph.com/magazine/joe-lubin-the-truth-about-eth-founders-split-and-crypto-google)
-    - [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/)
-    <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
-* Other Resources
-    <!--- [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf)-->
-    <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
-    - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD
-    - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
-    - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
-    - [Center for Humane Technology](https://www.humanetech.com/)
-* Related Links
-    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
-    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
-
 <a name="questions"></a><sup>3</sup> The development of poll or survey questions is out of scope for the current proposal.
 
 ## Example Use Case: Addressing the Challenge of Multiple-Pool Operators
@@ -186,6 +151,44 @@ Any smart contracts that may support an implementation of the current proposal m
 <a name="addwallets"></a><sup>6</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
 
 <a name="removewallets"></a><sup>7</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
+
+## Resources
+
+Listed somewhat in chronological order, consider the following related discussions, articles and other resources as source materials:
+
+* Discussions
+    - [20 Epochs without a block averaging around 300,000 in stake](https://forum.cardano.org/t/20-epochs-without-a-block-averaging-around-300-000-in-stake/101527)
+    - [Please help with checking my Stakepool configuration](https://forum.cardano.org/t/please-help-with-checking-my-stakepool-configuration/101824/64)
+    - [340 ADA Pool Fee is becoming more of a concern](https://forum.cardano.org/t/340-ada-pool-fee-is-becoming-more-of-a-concern/107035)
+    - [Why 340 Ada min fee is not being reduced](https://forum.cardano.org/t/why-340-ada-min-fee-is-not-being-reduced/107412)
+    - [Announcing the stake pools chosen for October 2022](https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/38)
+    - [No Blocks Generated in Last Two Epochs](https://forum.cardano.org/t/no-blocks-generated-in-last-two-epochs/110662)
+    - [No Blocks Again... Everything Appears Normal. Bad Luck?](https://forum.cardano.org/t/no-blocks-again-everything-appears-normal-bad-luck-yyc-pool/114804)
+* Articles
+    - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
+    - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
+    - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works)
+    - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/)
+    - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
+    - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
+    - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+    - [History of Money: From Fiat to Crypto, Explained](https://cointelegraph.com/explained/history-of-money-from-fiat-to-crypto-explained)
+    - [Ethereum as a Deflationary Asset, Explained](https://cointelegraph.com/explained/ethereum-as-a-deflationary-asset-explained)
+    - [ZKP Could Help Resolve Blockchain Tensions with GDPR](https://cointelegraph.com/innovation-circle/zkp-could-help-resolve-blockchain-tensions-with-gdpr)
+    - [Joe Lubin: The Truth About ETH Founders Split and "Crypto Google"](https://cointelegraph.com/magazine/joe-lubin-the-truth-about-eth-founders-split-and-crypto-google)
+    - [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/)
+    - [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/)
+    <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
+* Other Resources
+    <!--- [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf)-->
+    <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
+    - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD
+    - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
+    - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
+    - [Center for Humane Technology](https://www.humanetech.com/)
+* Related Links
+    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
+    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
 
 ## Copyright
 
