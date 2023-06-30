@@ -136,13 +136,13 @@ To be determined
 
 The current proposal introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">4</a></sup> Wallet addresses assigned the new type are included in a closed set—a subnet—of wallet addresses. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. A closed set may include an unlimited number of unique wallet addresses. Wallet addresses in a closed set may only send (t)ADA to or receive (t)ADA from wallet addresses included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
 
-To implement the current proposal, employees must maintain a professional relationship with stake pool operators and must NOT assume a dual role as a stake pool operator. Each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to closed sets, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">5</a></sup>
+To implement the current proposal, employees must maintain a professional ethical relationship with stake pools and stake pool operators.<sup><a href="#ethics">5</a></sup> Each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to closed sets, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">6</a></sup>
 
 For the employer to administer the new type of wallet address, the current proposal also requires implementation of new mechanisms to:
 * Create closed sets
 * Uniquely assign a closed set to an employee
-* Add wallet addresses to closed sets<sup><a href="#addwallets">6</a></sup>
-* Remove wallet addresses from closed sets<sup><a href="#removewallets">7</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
+* Add wallet addresses to closed sets<sup><a href="#addwallets">7</a></sup>
+* Remove wallet addresses from closed sets<sup><a href="#removewallets">8</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
 <!-- * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
 * Send (t)ADA safely and securely <b>from</b> wallet addresses included in a closed set to one or more wallet addresses NOT belonging to any closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user -->
 
@@ -150,11 +150,13 @@ Any smart contracts that may support an implementation of the current proposal m
 
 <a name="wallet"></a><sup>4</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
-<a name="secret"></a><sup>5</sup> The private signing key files give access to monies in the wallet address.
+<a name="ethics"></a><sup>5</sup> For example, an employee delegating discretionary tADA to a stake pool that the employee operates in a testing environment is ethical. An employee delegating discretionary ADA to a stake pool that the employee, a family member or friend operates in the Mainnet environment is unethical.
 
-<a name="addwallets"></a><sup>6</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
+<a name="secret"></a><sup>6</sup> The private signing key files give access to monies in the wallet address.
 
-<a name="removewallets"></a><sup>7</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
+<a name="addwallets"></a><sup>7</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
+
+<a name="removewallets"></a><sup>8</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
 
 ## Resources
 
