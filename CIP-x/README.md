@@ -196,6 +196,10 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
     - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
 
+## History
+
+<b>November 2022 to present</b>    Preparing an initial draft
+
 ## Copyright
 
 This CIP is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
