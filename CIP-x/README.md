@@ -26,7 +26,7 @@ Are you interested in more diverse, inclusive, progressive and compassionate gov
 
 Currently, the supply of stake pools exceeds the demand from delegators. Creating increased demand to meet the supply produces a net effect of growing the Cardano economy. The current proposal aims to improve and enhance governance of the stake pool operator (SPO) community with the help of Input Output (IO), Cardano Foundation (CF) and EMURGO employees including the support of their employers as well as the Cardano community.
 
-<a name="dependency"></a><sup>1</sup> The current CIP draft reflects research conducted by the [Center for Humane Technology](https://www.humanetech.com/). Decision-making processes based on token-weighted governance—such as [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md)—are out of scope for the current proposal. The current proposal offers an approach to mitigate risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.
+<a name="dependency"></a><sup>1</sup> The current proposal is based on research conducted by the [Center for Humane Technology](https://www.humanetech.com/). Decision-making processes based on token-weighted governance—such as [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md)—are out of scope for the current proposal. The current proposal offers an approach to mitigate risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.
 
 ## Motivation
 
