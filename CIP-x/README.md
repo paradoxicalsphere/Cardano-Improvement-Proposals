@@ -198,7 +198,7 @@ Listed somewhat in chronological order, consider the following related discussio
 
 ## History
 
-<b>November 2022 to present</b>        Preparing an initial draft
+- <b>November 2022 to present</b>—Preparing an initial draft
 
 ## Copyright
 
