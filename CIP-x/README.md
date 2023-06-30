@@ -113,7 +113,7 @@ As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet]
 The article [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/) describes the challenge associated with stake pool operators who register multiple pools as follows:
 
 <blockquote>
-The increasing centralization of the network by a handful of entities is eroding the value of the ecosystem, and it might never come back...<br />
+The increasing centralization of the network by a handful of entities is eroding the value of the ecosystem, and it might never come back...<br /><br />
 
 Cardano wants to assign blocks to entities proportional to how much 'skin in the game' they have, and what their standing in the community is. In this way, hopefully, only people who have a lot to lose if they were to maliciously misrepresent the transaction data get assigned the blocks to process. However, if you don’t occasionally give new people a chance to showcase their loyalty to the network, power begins to concentrate to a handful of early adopters. To that end, stake pools reach a saturation level at around 67m ADA, so the expected rewards per minted block go down. This is to incentivize [delegators] to go elsewhere.
 
