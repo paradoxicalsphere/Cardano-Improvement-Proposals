@@ -110,7 +110,7 @@ As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet]
 
 ## Example Use Case: Addressing the Challenge of Multiple-Pool Operators
 
-The article [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/) published in February 2022 describes the challenge associated with stake pool operators who register multiple pools as follows:
+The article [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/), published in February 2022, describes the challenge associated with stake pool operators who register multiple pools as follows:
 
 <blockquote>
 The increasing centralization of the network by a handful of entities is eroding the value of the ecosystem, and it might never come back...
