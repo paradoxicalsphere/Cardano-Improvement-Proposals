@@ -202,4 +202,4 @@ This CIP is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4
 
 ## History
 
-- <b>November 2022 to present</b>—Preparing an initial draft
+- <b>November 2022 to present</b>—Preparing an initial draft and seeking review
