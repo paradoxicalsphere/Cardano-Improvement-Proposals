@@ -176,6 +176,9 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Announcing the stake pools chosen for October 2022](https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/38)
     - [No Blocks Generated in Last Two Epochs](https://forum.cardano.org/t/no-blocks-generated-in-last-two-epochs/110662)
     - [No Blocks Again... Everything Appears Normal. Bad Luck?](https://forum.cardano.org/t/no-blocks-again-everything-appears-normal-bad-luck-yyc-pool/114804)
+* Related Links
+    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
+    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
 * Articles
     - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
     - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
@@ -199,9 +202,6 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
     - [Center for Humane Technology](https://www.humanetech.com/)
     - [Empowering Community-Driven Governance on Cardano](https://www.youtube.com/watch?app=desktop&v=YvTfSx6pv9Y)
-* Related Links
-    - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
-    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
 
 ## Copyright
 
