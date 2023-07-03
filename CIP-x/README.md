@@ -17,7 +17,7 @@ License: CC-BY-4.0
 ## Abstract
 
 <p align="center">
-  <code>"I think one of the things that people need to stop doing is asking, 'What is the ultimate blockchain?' ...<br>
+  <code>"I think one of the things that people need to stop doing is asking, 'What is the ultimate blockchain?'...<br>
 In my opinion, it doesn't exist because it really depends."</code>
 </p>
 <p align="center">
