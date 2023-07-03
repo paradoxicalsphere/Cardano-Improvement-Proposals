@@ -16,18 +16,13 @@ License: CC-BY-4.0
 
 ## Abstract
 
-<table width="75%" border="0">
-  <tbody>
-    <tr>
-      <td align=center colspan=2>“I think one of the things that people need to stop doing is asking, ‘What is the ultimate blockchain? What is the best blockchain for it?’<br>
-      And, in my opinion, it doesn't exist because it really depends.”</td>
-    </tr>
-    <tr>
-      <td style="width: 50%;">&nbsp;</td>
-      <td style="width: 50%;">—<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, vice president of engineering at the Cardano Foundation</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  “I think one of the things that people need to stop doing is asking, ‘What is the ultimate blockchain? What is the best blockchain for it?’<br>
+      And, in my opinion, it doesn't exist because it really depends.”
+</p>
+<p align="right">
+  —<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, vice president of engineering at the Cardano Foundation
+</p>
 
 Are you interested in more diverse, inclusive, progressive and compassionate governance for Cardano, as well as greater accountability for your investment in the ecosystem? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection.<sup><a href="#dependency">1</a></sup>
 
