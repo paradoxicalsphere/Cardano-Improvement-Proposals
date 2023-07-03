@@ -18,7 +18,7 @@ License: CC-BY-4.0
 
 <p align="center">
 “I think one of the things that people need to stop doing is asking, ‘What is the ultimate blockchain? What is the best blockchain for it?’ And, in my opinion, it doesn't exist because it really depends.”
-—[Mel McCann](https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/), vice president of engineering at the Cardano Foundation
+—<a href="[https://xkcd.com/1831/](https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/)">Mel McCann</a>, vice president of engineering at the Cardano Foundation
 </p>
 
 Are you interested in more diverse, inclusive, progressive and compassionate governance for Cardano, as well as greater accountability for your investment in the ecosystem? The Cardano protocol is a means to economy—not an end—and is not perfect. With proper governance, the protocol may not require perfection.<sup><a href="#dependency">1</a></sup>
