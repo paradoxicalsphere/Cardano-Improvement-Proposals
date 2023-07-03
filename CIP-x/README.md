@@ -17,7 +17,8 @@ License: CC-BY-4.0
 ## Abstract
 
 <p align="center">
-  <code>"I think one of the things that people need to stop doing is asking, 'What is the ultimate blockchain? What is the best blockchain for it?'<br>
+  <code>"I think one of the things that people need to stop doing is asking,<br />
+    'What is the ultimate blockchain? What is the best blockchain for it?'<br>
       And, in my opinion, it doesn't exist because it really depends."<br />
   —<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, vice president of engineering at the Cardano Foundation</code>
 </p>
