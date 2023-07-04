@@ -164,7 +164,7 @@ Any smart contracts that may support an implementation of the current proposal m
 
 <a name="wallet"></a><sup>5</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
-<a name="ethics"></a><sup>6</sup> For example, an employee delegating discretionary tADA to a stake pool that the employee operates in a testing environment is ethical. An employee delegating discretionary ADA to a stake pool that the employee, a family member or friend operates in the Mainnet environment is unethical.
+<a name="ethics"></a><sup>6</sup> For example, an employee delegating discretionary tADA to a stake pool that the employee operates in a testing environment is ethical. An employee delegating discretionary ADA to a stake pool that the employee, a family member or friend operates in the Mainnet environment seems unethical.
 
 <a name="secret"></a><sup>7</sup> The private signing key files give access to monies in the wallet address.
 
