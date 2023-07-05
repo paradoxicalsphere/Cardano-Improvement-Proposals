@@ -118,11 +118,15 @@ In his article, Ivanov also identifies the following opportunities. The list als
     <i>Figure 2 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
 </p>
 
+## Example Use Cases
+
+### Participating in On-Chain Polling
+
 As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/), the on-chain polling mechanism implemented via [CIP-0094](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0094) introduces an elegant mechanism to hear the voices of (t)ADA holders: "After the [poll or survey] question gets published, SPOs will have until the end of the next epoch to vote. A period of two additional epochs will then give stake delegators the time to consult the dashboards, see how [or whether] SPOs voted, examine the results, and decide whether or not to redelegate their stake to another SPO." The on-chain polling mechanism may serve as a space having potential to increase focus, learning and collaboration in the (t)ADA-holding community.<sup><a href="#questions">4</a></sup> <b>Presenting data without first requiring a decision about which parameters to use and how to apply them to interpret or analyze the data may help create robust mechanisms for governance participation.</b> The current proposal may introduce an opportunity for employees to participate in the delegation or redelegation phase of on-chain polls or surveys using discretionary (t)ADA.
 
 <a name="questions"></a><sup>4</sup> The development of poll or survey questions is out of scope for the current proposal.
 
-## Example Use Case: Addressing the Challenge of Multiple-Pool Operators
+###Addressing the Challenge of Multiple-Pool Operators
 
 The article [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/), published in February 2022, describes the challenge associated with stake pool operators who register multiple pools as follows:
 
