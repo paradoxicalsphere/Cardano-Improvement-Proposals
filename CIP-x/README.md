@@ -126,7 +126,7 @@ As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet]
 
 <a name="questions"></a><sup>4</sup> The development of poll or survey questions is out of scope for the current proposal.
 
-###Addressing the Challenge of Multiple-Pool Operators
+### Addressing the Challenge of Multiple-Pool Operators
 
 The article [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/), published in February 2022, describes the challenge associated with stake pool operators who register multiple pools as follows:
 
