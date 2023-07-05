@@ -140,7 +140,7 @@ In economics terms, this would be called a "Zero Sum Game," as in a situation wh
 It is with this backdrop that it becomes particularly heinous when stakepool operators just keep opening multiple pools. They’re essentially robbing opportunity from new entrants, thereby centralizing the system and making everyone worse off in the long term, because they are trying to extract as much value as they can for themselves.
 </blockquote>
 
-To address the challenge of multiple-pool operators using an implementation of the current proposal, in a scenario where multiple-pool operators may be identified as centralizing the network "too much," on individual or collective bases employees may delegate or redelegate discretionary (t)ADA to stake pools identified as single-pool operations, within the constraints established by the founding entities Input Output, Cardano Foundation and EMURGO to maintain or restore a balance of decentralization within the Cardano network.
+To address the challenge of multiple-pool operators using an implementation of the current proposal, in a scenario where multiple-pool operators may be identified as centralizing or introducing fragility into the network "too much," on individual or collective bases employees may delegate or redelegate discretionary (t)ADA to stake pools identified as single-pool operations—within the constraints established by the founding entities Input Output, Cardano Foundation and EMURGO—to maintain or restore a balance of decentralization and resilience within the Cardano network.
 
 ## Backwards Compatibility
 
