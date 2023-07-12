@@ -38,7 +38,7 @@ Prior to reviewing the current proposal further, please watch the video [Empower
 
 <a name="dependency"></a><sup>1</sup> The current proposal is based on research conducted by the [Center for Humane Technology](https://www.humanetech.com/). Decision-making processes based on token-weighted governance, such as [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md), are out of scope for the current proposal. The current proposal offers an approach to mitigate risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.
 
-<a name="mbo"></a><sup>2</sup> The video refers to the new Cardano [Member-Based Organization (MBO)](https://cardanombo.org/).
+<a name="mbo"></a><sup>2</sup> The video refers to the Cardano [Member-Based Organization (MBO)](https://cardanombo.org/).
 
 ## Motivation
 
