@@ -213,13 +213,14 @@ Listed somewhat in chronological order, consider the following related discussio
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
 * Other Resources
-    <!--- [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf)-->
+    <!-- - [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf) -->
     <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
     - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD
     - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
     - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
     - [Center for Humane Technology](https://www.humanetech.com/)
     - [Empowering Community-Driven Governance on Cardano](https://www.youtube.com/watch?app=desktop&v=YvTfSx6pv9Y)
+    <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
 
 ## Copyright
 
