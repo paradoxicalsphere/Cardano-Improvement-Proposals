@@ -118,7 +118,7 @@ In his article, Ivanov also identifies the following opportunities. The list als
     <i>Figure 2 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
 </p>
 
-<a name="connection"></a><sup>4</sup> For example, EMURGO and Waves both partner with the Ergo Platform.
+<a name="connection"></a><sup>4</sup> For example, EMURGO and Waves both partner with the [Ergo Platform](https://ergoplatform.org/).
 
 ## Example Use Cases
 
