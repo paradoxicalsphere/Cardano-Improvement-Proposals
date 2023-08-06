@@ -100,7 +100,7 @@ The following primary stakeholders are identified:
 
 With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of decentralized autonomous organization (DAO) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
 
-Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016. In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
+Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016.<sup><a href="#connection">4</a></sup> In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
 
 <b>Token-weighted governance, in which users with the most tokens have the biggest share of voting power, can inadvertently end up handing over control to a few wealthy participants and stripping it away from the many.</b>
 
@@ -118,17 +118,19 @@ In his article, Ivanov also identifies the following opportunities. The list als
     <i>Figure 2 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
 </p>
 
+<a name="connection"></a><sup>4</sup> For example, EMURGO and Waves both partner with the Ergo Platform.
+
 ## Example Use Cases
 
 ### Participating in On-Chain Polling
 
 As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/), the on-chain polling mechanism implemented via [CIP-0094](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0094) introduces an elegant mechanism to hear the voices of (t)ADA holders: "After the [poll or survey] question gets published, SPOs will have until the end of the next epoch to vote. A period of two additional epochs will then give stake delegators the time to consult the dashboards, see how [or whether] SPOs voted, examine the results, and decide whether or not to redelegate their stake to another SPO."
 
-The on-chain polling mechanism may serve as a space having potential to increase focus, learning and collaboration in the (t)ADA-holding community.<sup><a href="#questions">4</a></sup> <b>Presenting data without first requiring a decision about which parameters to use and how to apply them to interpret or analyze the data may help create robust mechanisms for governance participation.</b>
+The on-chain polling mechanism may serve as a space having potential to increase focus, learning and collaboration in the (t)ADA-holding community.<sup><a href="#questions">5</a></sup> <b>Presenting data without first requiring a decision about which parameters to use and how to apply them to interpret or analyze the data may help create robust mechanisms for governance participation.</b>
 
 The current proposal may introduce an opportunity for employees to participate in the delegation or redelegation phase of on-chain polls or surveys using discretionary (t)ADA.
 
-<a name="questions"></a><sup>4</sup> The development of poll or survey questions is out of scope for the current proposal.
+<a name="questions"></a><sup>5</sup> The development of poll or survey questions is out of scope for the current proposal.
 
 ### Addressing the Challenge of Multiple-Pool Operators
 
@@ -156,29 +158,29 @@ To be determined
 
 ## Path to Active
 
-The current proposal introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">5</a></sup> Wallet addresses assigned the new type are included in a closed set—a subnet—of wallet addresses. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. A closed set may include many unique wallet addresses. Wallet addresses in a closed set may only send (t)ADA to or receive (t)ADA from wallet addresses included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
+The current proposal introduces a requirement for a new type of [wallet address key pair](https://developers.cardano.org/docs/operate-a-stake-pool/cardano-key-pairs/#wallet-address-key-pairs).<sup><a href="#wallet">6</a></sup> Wallet addresses assigned the new type are included in a closed set—a subnet—of wallet addresses. Support for multiple closed sets is required. Wallet addresses included in a closed set belong to exactly one closed set, and no more. A closed set may include many unique wallet addresses. Wallet addresses in a closed set may only send (t)ADA to or receive (t)ADA from wallet addresses included in the same closed set. Wallet addresses belonging to a closed set maintain the existing functionality to delegate the wallet to a pool using a staking address.
 
-To implement the current proposal, employees must maintain a professional ethical relationship with stake pools and stake pool operators.<sup><a href="#ethics">6</a></sup> Each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to closed sets, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">7</a></sup>
+To implement the current proposal, employees must maintain a professional ethical relationship with stake pools and stake pool operators.<sup><a href="#ethics">7</a></sup> Each employee is assigned a unique closed set of wallet addresses. Closed sets, as well as the public verification key files for payment and stake addresses of wallet addresses belonging to closed sets, may be shared publicly.<!-- <sup><a href="#private">4</a></sup> --> The private signing key files for a wallet address belonging to a closed set are accessible only to the employee assigned the wallet address and to the employer.<sup><a href="#secret">8</a></sup>
 
 For the employer to administer the new type of wallet address, the current proposal also requires implementation of new mechanisms to:
 * Create closed sets
 * Uniquely assign a closed set to an employee
-* Add wallet addresses to closed sets<sup><a href="#addwallets">8</a></sup>
-* Remove wallet addresses from closed sets<sup><a href="#removewallets">9</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
+* Add wallet addresses to closed sets<sup><a href="#addwallets">9</a></sup>
+* Remove wallet addresses from closed sets<sup><a href="#removewallets">10</a></sup> <!-- Add wallet addresses to—or remove wallet addresses from—closed sets -->
 <!-- * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
 * Send (t)ADA safely and securely <b>from</b> wallet addresses included in a closed set to one or more wallet addresses NOT belonging to any closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user -->
 
 Any smart contracts that may support an implementation of the current proposal must enforce the existing definitions of closed sets.
 
-<a name="wallet"></a><sup>5</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
+<a name="wallet"></a><sup>6</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
-<a name="ethics"></a><sup>6</sup> For example, an employee delegating discretionary tADA to a stake pool that the employee operates in a testing environment is ethical. An employee delegating discretionary ADA to a stake pool that the employee, a family member or friend operates in the Mainnet environment seems unethical.
+<a name="ethics"></a><sup>7</sup> For example, an employee delegating discretionary tADA to a stake pool that the employee operates in a testing environment is ethical. An employee delegating discretionary ADA to a stake pool that the employee, a family member or friend operates in the Mainnet environment seems unethical.
 
-<a name="secret"></a><sup>7</sup> The private signing key files give access to monies in the wallet address.
+<a name="secret"></a><sup>8</sup> The private signing key files give access to monies in the wallet address.
 
-<a name="addwallets"></a><sup>8</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
+<a name="addwallets"></a><sup>9</sup> Wallet addresses may carry zero or non-zero balances. Only the respective employee—NOT the employer—may send or stake (t)ADA from wallet addresses belonging to a closed set.
 
-<a name="removewallets"></a><sup>9</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
+<a name="removewallets"></a><sup>10</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
 
 ## Resources
 
