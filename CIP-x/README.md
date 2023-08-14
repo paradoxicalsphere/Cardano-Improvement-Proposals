@@ -222,6 +222,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
     - [Center for Humane Technology](https://www.humanetech.com/)
     - [Empowering Community-Driven Governance on Cardano](https://www.youtube.com/watch?app=desktop&v=YvTfSx6pv9Y)
+    - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/explore-cardano/relevant-research-papers/#voltaire)
     <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
 
 ## Copyright
