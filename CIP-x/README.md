@@ -6,7 +6,7 @@
 
 CIP: ?  
 Title: It Takes a Village  
-Author: [Oliver Sterzik](https://www.credential.net/9c992acd-840c-4090-8e17-37f8e18799e0) <support@paradoxicalsphere.com>  
+Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
