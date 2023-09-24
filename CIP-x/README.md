@@ -210,9 +210,9 @@ Listed somewhat in chronological order, consider the following related discussio
     - [ZKP Could Help Resolve Blockchain Tensions with GDPR](https://cointelegraph.com/innovation-circle/zkp-could-help-resolve-blockchain-tensions-with-gdpr)
     - [Joe Lubin: The Truth About ETH Founders Split and "Crypto Google"](https://cointelegraph.com/magazine/joe-lubin-the-truth-about-eth-founders-split-and-crypto-google)
     - [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/)
+    - [Are DAOs Overhyped and Unworkable? Lessons from the Front Lines](https://cointelegraph.com/magazine/dao-hyped-voting-decentralization/)
     - [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/)
     - [Separation of Powers](https://en.wikipedia.org/wiki/Separation_of_powers)
-    - [Are DAOs Overhyped and Unworkable? Lessons from the Front Lines](https://cointelegraph.com/magazine/dao-hyped-voting-decentralization/)
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
 * Example Conflicts of Interest
