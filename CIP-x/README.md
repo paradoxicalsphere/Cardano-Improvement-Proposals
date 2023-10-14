@@ -225,7 +225,8 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
     - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
     - [Center for Humane Technology](https://www.humanetech.com/)
-    - [Empowering Community-Driven Governance on Cardano](https://www.youtube.com/watch?app=desktop&v=YvTfSx6pv9Y)
+    - [Empowering Community-Driven Governance on Cardano](https://youtu.be/YvTfSx6pv9Y?si=6wacibbUWA-Vw_Cx)
+    - [On Hydra Scaling](https://www.youtube.com/watch?v=vep6yMM-l3k)
     - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/explore-cardano/relevant-research-papers/#voltaire)
     <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
 
