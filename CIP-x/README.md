@@ -170,7 +170,7 @@ For the employer to administer the new type of wallet address, the current propo
 <!-- * Set strictly-enforced permissions for closed sets in terms of the other closed sets—or one or more specific wallet addresses that do NOT belonging to any closed set—allowed to send (t)ADA <b>to</b> wallet addresses in a closed set
 * Send (t)ADA safely and securely <b>from</b> wallet addresses included in a closed set to one or more wallet addresses NOT belonging to any closed set without compromising the integrity of the closed set of wallet addresses—or (t)ADA balances of wallet addresses in the closed set—for the employee end user -->
 
-Any smart contracts that may support an implementation of the current proposal must enforce the existing definitions of closed sets.
+Any smart contracts and related infrastructure that may support an implementation of the current proposal must enforce the existing definitions of closed sets.
 
 <a name="wallet"></a><sup>6</sup> Each Cardano wallet address is comprised of a payment address and a staking address.
 
