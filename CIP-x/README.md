@@ -215,9 +215,6 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Separation of Powers](https://en.wikipedia.org/wiki/Separation_of_powers)
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
-<!--* Example Conflicts of Interest
-    - Andrew Westberg, Senior Community Member—Operating Multiple [Blue Cheese Stake House](https://bluecheesestakehouse.com/) Pools
-    - Robert Phair, [CIP Editor](https://cips.cardano.org/#editors)—Operating [COSD Pool](https://cosd.com/pool)-->
 * Other Resources
     <!-- - [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf) -->
     <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
@@ -231,6 +228,9 @@ Listed somewhat in chronological order, consider the following related discussio
     - [On Hydra Scaling](https://www.youtube.com/watch?v=vep6yMM-l3k)
     - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/explore-cardano/relevant-research-papers/#voltaire)
     <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
+<!--* Example Conflicts of Interest
+    - Andrew Westberg, Senior Community Member—Operating Multiple [Blue Cheese Stake House](https://bluecheesestakehouse.com/) Pools
+    - Robert Phair, [CIP Editor](https://cips.cardano.org/#editors)—Operating [COSD Pool](https://cosd.com/pool)-->
 
 ## Copyright
 
