@@ -98,7 +98,7 @@ The following primary stakeholders are identified:
 - EMURGO
 - EMURGO employees
 
-With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of decentralized autonomous organization (DAO) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
+With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of [decentralized autonomous organization](https://legalnodes.com/article/swiss-foundation-dao-legal-wrapper) (DAO) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
 
 Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016.<sup><a href="#connection">4</a></sup> In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
 
@@ -213,6 +213,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Are DAOs Overhyped and Unworkable? Lessons from the Front Lines](https://cointelegraph.com/magazine/dao-hyped-voting-decentralization/)
     - [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/)
     - [Separation of Powers](https://en.wikipedia.org/wiki/Separation_of_powers)
+    - [Swiss Foundation as a DAO Legal Wrapper: What You Need to Know](https://legalnodes.com/article/swiss-foundation-dao-legal-wrapper)
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
 * Other Resources
