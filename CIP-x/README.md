@@ -87,7 +87,7 @@ For example, questions such as the following must be addressed:
 - What aspects of such an initiative may be administered using smart contracts?
 - Would such an initiative affect existing delegation strategies that Input Output, Cardano Foundation and EMURGO currently may practice, and if so, how?
 
-<a name="employees"></a><sup>3</sup> Employees may serve in existing roles within the organization or be newly hired explicitly for roles related to delegating discretionary (t)ada to stake pools.
+<a name="employees"></a><sup>3</sup> Employees may already serve in existing roles within the organization, or be newly hired explicitly or solely to fulfill roles related to delegating discretionary (t)ada to stake pools.
 
 <a name="tada"></a><sup>4</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA. 
 
