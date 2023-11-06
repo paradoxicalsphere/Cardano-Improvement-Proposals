@@ -240,7 +240,7 @@ Listed somewhat in chronological order, consider the following related discussio
 
 ## Copyright
 
-[DMCA Protected Item](https://www.dmca.com/r/69428j8) ([What is DMCA?](https://www.dmca.com/FAQ/What-is-DMCA))
+[DMCA Protected Item](https://www.dmca.com/r/69428j8)
 
 ## History
 
