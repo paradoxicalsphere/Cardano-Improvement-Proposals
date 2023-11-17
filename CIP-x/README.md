@@ -66,7 +66,7 @@ Often, discussion of the Prisoner's Dilemma seems to focus on logic, overlooking
 
 ## Specification
 
-The current proposal emerging from the Cardano community begins to explore the potential for a process change empowering Input Output, Cardano Foundation and EMURGO employees<sup><a href="#employees">3</a></sup> with discretionary (t)ADA to delegate to stake pools in the Production (Mainnet) environment as well as any and all testing environments.<sup><a href="#tada">4</a></sup> In other words, the process change would make (t)ADA available to each IO, Cardano Foundation and EMURGO employee for delegation to one or more stake pools based on the judgement of the individual employee. <b>The process change aims to increase decentralization, transparency and agility of delegations to stake pools and related decisions that IO, the Cardano Foundation and EMURGO may make.</b>
+The current proposal emerging from the Cardano community begins to explore the potential for a process change empowering Input Output, Cardano Foundation and EMURGO employees with discretionary (t)ADA<sup><a href="#tada">3</a></sup> to delegate to stake pools in the Production (Mainnet) environment as well as any and all testing environments.<sup><a href="#employees">4</a></sup> In other words, the process change would make (t)ADA available to each IO, Cardano Foundation and EMURGO employee for delegation to one or more stake pools based on the judgement of the individual employee. <b>The process change aims to increase decentralization, transparency and agility of delegations to stake pools and related decisions that IO, the Cardano Foundation and EMURGO may make.</b>
 
 To find a balance that may help vitalize employees as well as the SPO and wider Cardano communities without introducing risks to the security of Cardano networks or any other potential forms of instability, <b>analysis, evaluation, planning, elicitation, collaboration, design, management and communication are needed from Input Output, Cardano Foundation and EMURGO to gain knowledge in support of the proposed initiative for implementation internally within the respective organizations in order to complete a proposal capable of garnering sufficient community understanding and consensus to progress towards becoming operational.</b>
 
@@ -87,9 +87,9 @@ For example, questions such as the following must be addressed:
 - What aspects of such an initiative may be administered using smart contracts?
 - Would such an initiative affect existing delegation strategies that Input Output, Cardano Foundation and EMURGO currently may practice, and if so, how?
 
-<a name="employees"></a><sup>3</sup> Employees may already serve in existing roles within the respective organizations, or be newly hired explicitly or solely for the purpose of fulfilling roles related to delegating discretionary (t)ada to stake pools.
+<a name="tada"></a><sup>3</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA.
 
-<a name="tada"></a><sup>4</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA. 
+<a name="employees"></a><sup>4</sup> Employees may already serve in existing roles within the respective organizations, or be newly hired explicitly or solely for the purpose of fulfilling roles related to delegating discretionary (t)ada to stake pools.
 
 ## Rationale
 
