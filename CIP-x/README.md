@@ -131,7 +131,7 @@ In his article, Ivanov also identifies the following opportunities. The list als
 
 As explained in the article [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/), the on-chain polling mechanism implemented via [CIP-0094](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0094) introduces an elegant mechanism to hear the voices of (t)ADA holders: "After the [poll or survey] question gets published, SPOs will have until the end of the next epoch to vote. A period of two additional epochs will then give stake delegators the time to consult the dashboards, see how [or whether] SPOs voted, examine the results, and decide whether or not to redelegate their stake to another SPO."
 
-The on-chain polling mechanism may serve to create a space where shared understanding within the (t)ADA-holding community grows and improves.<sup><a href="#questions">6</a></sup> <b>Presenting data without first requiring a decision about which parameters to use and how to apply them to interpret or analyze the data may help create robust mechanisms for governance participation.</b>
+Over time, the on-chain polling mechanism may serve to create a space where shared understanding within the (t)ADA-holding community grows and improves.<sup><a href="#questions">6</a></sup> <b>Presenting data without first requiring a decision about which parameters to use and how to apply them to interpret or analyze the data may help create robust mechanisms for governance participation.</b>
 
 The current proposal may introduce an opportunity for employees to participate in the delegation or redelegation phase of on-chain polls or surveys using discretionary (t)ADA.
 
