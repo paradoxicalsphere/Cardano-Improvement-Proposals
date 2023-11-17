@@ -89,7 +89,7 @@ For example, questions such as the following must be addressed:
 
 <a name="tada"></a><sup>3</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA.
 
-<a name="employees"></a><sup>4</sup> Employees may already serve in existing roles within the respective organizations, or be newly hired explicitly or solely for the purpose of fulfilling roles related to delegating discretionary (t)ada to stake pools.
+<a name="employees"></a><sup>4</sup> Employees may already serve in existing roles within the respective organizations, or be newly hired explicitly or solely for the purposes of fulfilling roles related to delegating discretionary (t)ada to stake pools.
 
 ## Rationale
 
