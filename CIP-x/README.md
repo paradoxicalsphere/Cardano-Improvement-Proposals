@@ -212,6 +212,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
     - [History of Money: From Fiat to Crypto, Explained](https://cointelegraph.com/explained/history-of-money-from-fiat-to-crypto-explained)
     - [Ethereum as a Deflationary Asset, Explained](https://cointelegraph.com/explained/ethereum-as-a-deflationary-asset-explained)
+    - [DAOs are Not Corporations: Where Decentralization in Autonomous Organizations Matters](https://vitalik.eth.limo/general/2022/09/20/daos.html)
     - [ZKP Could Help Resolve Blockchain Tensions with GDPR](https://cointelegraph.com/innovation-circle/zkp-could-help-resolve-blockchain-tensions-with-gdpr)
     - [Joe Lubin: The Truth About ETH Founders Split and "Crypto Google"](https://cointelegraph.com/magazine/joe-lubin-the-truth-about-eth-founders-split-and-crypto-google)
     - [Entering Voltaire: Poll Experiment Live on Mainnet](https://cardanofoundation.org/en/news/entering-voltaire-poll-experiment-live-on-mainnet/)
