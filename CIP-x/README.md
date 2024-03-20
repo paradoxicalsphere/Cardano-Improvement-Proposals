@@ -60,7 +60,7 @@ As William Poundstone describes in the book [_Prisoner's Dilemma_](https://www.w
 
 Communication between the Cardano stake pool operator community and employees of Input Output, Cardano Foundation and EMURGO is limited. Also, IO, CF, EMURGO and the SPO community share a common interest in achieving Cardano's success.
 
-Based on the Prisoner's Dilemma, where the SPO community may be represented as Prisoner A and employees may be represented as Prisoner B, or vice versa, the current proposal aims to achieve an outcome based on trust, mutual benefit, cooperation and coordination for each "prisoner" as well as in the relationship between "prisoners," rather than an outcome based on self interest and betrayal.
+Based on the Prisoner's Dilemma, where the SPO community may be represented as Prisoner A and employees may be represented as Prisoner B, or vice versa, the current proposal aims to achieve an outcome based on trust, mutual benefit, cooperation and coordination for each "prisoner" as well as in the relationship between "prisoners," rather than an outcome based on self interest.
 
 Often, discussion of the Prisoner's Dilemma seems to focus on logic, overlooking how an outcome of a dilemma may affect the world view and relationships for involved "prisoners" long after the outcome, with ongoing potential for entrenching and escalating patterns of betrayal—or for building trust—over time.
 
