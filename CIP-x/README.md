@@ -49,7 +49,7 @@ Imagining a better world without Cardano is possible. Building a better world wi
 
 Changing the world without people changing is impossible. Trustless systems are meant to build trust.
 
-Central in the design of the Cardano protocol is [mathematical game theory](https://cardano.org/ouroboros/). In [mathematical game theory](https://en.wikipedia.org/wiki/Game_theory), the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) is a standard analyzed example.
+Central in the design of the Cardano protocol is [mathematical game theory](https://cardano.org/ouroboros/). In [mathematical game theory](https://en.wikipedia.org/wiki/Game_theory), the [Prisoner's Dilemma](https://www.youtube.com/watch?v=mScpHTIi-kM) is a standard analyzed example.
 
 As William Poundstone describes in the book [_Prisoner's Dilemma_](https://www.worldcat.org/title/23383657), two members of a criminal gang are arrested and imprisoned. Each prisoner is held in solitary confinement with no means of speaking to or exchanging messages with the other. The police admit that they do not have enough evidence to convict the pair on the principal charge. They plan to sentence both to a year in prison on a lesser charge. Simultaneously, the police offer each prisoner a self-defeating bargain. The possible outcomes are:
 
