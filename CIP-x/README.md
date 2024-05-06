@@ -227,7 +227,7 @@ Listed somewhat in chronological order, consider the following related discussio
 * Other Resources
     <!-- - [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf) -->
     <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
-    - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD
+    <!-- - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD -->
     - [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) by Scott Alexander
     - [Greenpilled: How Crypto Can Regenerate the World](https://www.worldcat.org/title/1303554957) by Kevin Owocki
     - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
