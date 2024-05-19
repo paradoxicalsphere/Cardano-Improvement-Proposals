@@ -232,15 +232,15 @@ Consider the following related articles and other resources:
     <!-- - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD -->
     - [Greenpilled: How Crypto Can Regenerate the World](https://www.worldcat.org/title/1303554957) by Kevin Owocki
     - [Center for Humane Technology](https://www.humanetech.com/)
-    - [Empowering Community-Driven Governance on Cardano](https://youtu.be/YvTfSx6pv9Y?si=6wacibbUWA-Vw_Cx)
-    - [On Hydra Scaling](https://www.youtube.com/watch?v=vep6yMM-l3k)
     - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/explore-cardano/relevant-research-papers/#voltaire)
-<!-- - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589) -->
+    <!-- - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589) -->
     <!-- - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362) -->
-  <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
-<!--* Example Conflicts of Interest
+    <!-- - [Empowering Community-Driven Governance on Cardano](https://youtu.be/YvTfSx6pv9Y?si=6wacibbUWA-Vw_Cx) -->
+    <!-- - [On Hydra Scaling](https://www.youtube.com/watch?v=vep6yMM-l3k) -->
+    <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
+    <!-- * Example Conflicts of Interest
     - Andrew Westberg, Senior Community Member—Operating Multiple [Blue Cheese Stake House](https://bluecheesestakehouse.com/) Pools
-    - Robert Phair, [CIP Editor](https://cips.cardano.org/#editors)—Operating [COSD Pool](https://cosd.com/pool)-->
+    - Robert Phair, [CIP Editor](https://cips.cardano.org/#editors)—Operating [COSD Pool](https://cosd.com/pool) -->
 
 ## Copyright
 
