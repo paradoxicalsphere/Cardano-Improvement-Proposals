@@ -206,7 +206,6 @@ Listed somewhat in chronological order, consider the following related discussio
     - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
     - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
     - [Why and How the PIVX DAO Works](https://pivx.org/news/why-and-how-the-pivx-dao-works)
-    - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/)
     - [Why Less May Be More When Building Web3](https://cointelegraph.com/innovation-circle/why-less-may-be-more-when-building-web3)
     - [The Legal Dangers of Getting Involved with DAOs](https://cointelegraph.com/magazine/legal-dangers-getting-involved-daos/)
     - [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
@@ -224,6 +223,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
     - [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
+    <!-- - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
 * Other Resources
     <!-- - [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf) -->
