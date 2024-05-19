@@ -189,9 +189,9 @@ Any smart contracts and related infrastructure that may support an implementatio
 
 ## Resources
 
-Listed somewhat in chronological order, consider the following related discussions, articles and other resources as source materials:
+Consider the following related articles and other resources:
 
-* Discussions
+<!-- * Discussions
     - [20 Epochs without a block averaging around 300,000 in stake](https://forum.cardano.org/t/20-epochs-without-a-block-averaging-around-300-000-in-stake/101527)
     - [Please help with checking my Stakepool configuration](https://forum.cardano.org/t/please-help-with-checking-my-stakepool-configuration/101824/64)
     - [340 ADA Pool Fee is becoming more of a concern](https://forum.cardano.org/t/340-ada-pool-fee-is-becoming-more-of-a-concern/107035)
@@ -201,7 +201,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [No Blocks Again... Everything Appears Normal. Bad Luck?](https://forum.cardano.org/t/no-blocks-again-everything-appears-normal-bad-luck-yyc-pool/114804)
 * Related Links
     - [Idea for Proposing a Cardano Improvement Proposal](https://forum.cardano.org/t/idea-for-proposing-a-cardano-improvement-proposal/107720)
-    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889)
+    - [Seeking Feedback on a CIP Idea](https://forum.cardano.org/t/seeking-feedback-on-a-cip-idea/107889) -->
 * Articles
     - [The Future of DeFi, the Blockchain Ecosystem and More, Featuring Frederik Gregaard of the Cardano Foundation](https://medium.com/bittrexglobal/the-future-of-defi-the-blockchain-ecosystem-and-more-featuring-frederik-gregaard-of-the-cardano-ffd395b910e2)
     - [Waves Founder: DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
