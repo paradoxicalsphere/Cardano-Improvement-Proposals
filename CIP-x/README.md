@@ -222,6 +222,7 @@ Consider the following related articles and other resources:
     - [Former Coinbase Exec Posits Blockchain-driven Vision of Future Societies](https://cointelegraph.com/news/coinbase-exec-blockchain-future-societies)
     - [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
     - [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
+    - [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
@@ -229,15 +230,14 @@ Consider the following related articles and other resources:
     <!-- - [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf) -->
     <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
     <!-- - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD -->
-    - [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) by Scott Alexander
     - [Greenpilled: How Crypto Can Regenerate the World](https://www.worldcat.org/title/1303554957) by Kevin Owocki
-    - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589)
-    - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362)
     - [Center for Humane Technology](https://www.humanetech.com/)
     - [Empowering Community-Driven Governance on Cardano](https://youtu.be/YvTfSx6pv9Y?si=6wacibbUWA-Vw_Cx)
     - [On Hydra Scaling](https://www.youtube.com/watch?v=vep6yMM-l3k)
     - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/explore-cardano/relevant-research-papers/#voltaire)
-    <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
+<!-- - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589) -->
+    <!-- - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362) -->
+  <!-- - [Playing the Infinite Game During the Meta-crisis with James Carse](https://www.youtube.com/watch?v=EFKa3zRFo7o) -->
 <!--* Example Conflicts of Interest
     - Andrew Westberg, Senior Community Member—Operating Multiple [Blue Cheese Stake House](https://bluecheesestakehouse.com/) Pools
     - Robert Phair, [CIP Editor](https://cips.cardano.org/#editors)—Operating [COSD Pool](https://cosd.com/pool)-->
