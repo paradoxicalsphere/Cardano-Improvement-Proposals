@@ -222,6 +222,7 @@ Listed somewhat in chronological order, consider the following related discussio
     - [Swiss Foundation as a DAO Legal Wrapper: What You Need to Know](https://legalnodes.com/article/swiss-foundation-dao-legal-wrapper)
     - [Former Coinbase Exec Posits Blockchain-driven Vision of Future Societies](https://cointelegraph.com/news/coinbase-exec-blockchain-future-societies)
     - [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+    - [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/) -->
 * Other Resources
