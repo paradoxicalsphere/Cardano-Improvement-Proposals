@@ -4,7 +4,6 @@
 
 ---
 
-CIP: ?  
 Title: It Takes a Village  
 Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
 Status: Draft  
