@@ -1,4 +1,4 @@
-# CIP-_x_?—It Takes a Village
+# It Takes a Village
 
 ## Preamble
 
