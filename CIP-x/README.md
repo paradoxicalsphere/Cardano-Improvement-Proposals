@@ -20,7 +20,7 @@ License: DMCA
 In my opinion, it doesn't exist because it really depends."</code>
 </p>
 <p align="center">
-<code>—Mel McCann, Vice President of Engineering, Cardano Foundation</code>
+<code>—<a href="https://cointelegraph.com/news/the-best-blockchain-does-not-exist-cardano-foundation-exec">Mel McCann</a>, Vice President of Engineering, Cardano Foundation</code>
 </p>
 <!-- <p align="center">
 <code>—<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, Vice President of Engineering, Cardano Foundation</code>
