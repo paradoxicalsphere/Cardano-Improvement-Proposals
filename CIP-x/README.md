@@ -20,8 +20,11 @@ License: DMCA
 In my opinion, it doesn't exist because it really depends."</code>
 </p>
 <p align="center">
-<code>—<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, Vice President of Engineering, Cardano Foundation</code>
+<code>—Mel McCann, Vice President of Engineering, Cardano Foundation</code>
 </p>
+<!-- <p align="center">
+<code>—<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, Vice President of Engineering, Cardano Foundation</code>
+</p> -->
 
 Are you interested in more responsive, emergent, collaborative and sustainable governance for Cardano, as well as greater accountability for our investments in the ecosystem, to help Cardano thrive as an ecosystem based on <b>human values</b>? The Cardano protocol is a means to economy—not an end—and is not perfect. With appropriate governance, the protocol may not require perfection.<sup><a href="#dependency">1</a></sup>
 
