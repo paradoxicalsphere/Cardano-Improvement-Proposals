@@ -224,6 +224,7 @@ Consider the following related articles and other resources:
     - [Former Coinbase Exec Posits Blockchain-driven Vision of Future Societies](https://cointelegraph.com/news/coinbase-exec-blockchain-future-societies)
     - [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
     - [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
+    - [Decentralizing in Spite of the Pareto Principle](https://bytemaster.medium.com/decentralizing-in-spite-of-pareto-principle-eda86bb8228b)
     <!-- - [Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) -->
     <!-- - [50% of Cardano Nodes Hit with Disconnection Bug, Input Output Investigates](https://cryptoslate.com/50-of-cardano-nodes-hit-with-disconnection-bug-input-output-investigates/) -->
     <!-- - [Cardano Block Production Temporary Outage](https://input-output-hk.github.io/cardano-updates/2023-04-17-ledger/) -->
