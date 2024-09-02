@@ -1,6 +1,6 @@
 # It Takes a Village
 
-## Preamble<a id="preamble" />
+## Preamble
 
 ---
 
@@ -13,7 +13,7 @@ License: DMCA
 
 ---
 
-## Abstract<a id="abstract" />
+## Abstract
 
 <p align="center">
   <code>"I think one of the things that people need to stop doing is asking, 'What is the ultimate blockchain?'...<br>
