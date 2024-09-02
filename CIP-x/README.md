@@ -1,6 +1,6 @@
 # It Takes a Village
 
-## Preamble
+<a id="preamble" />## Preamble
 
 ---
 
@@ -13,7 +13,7 @@ License: DMCA
 
 ---
 
-## Abstract
+<a id="abstract" />## Abstract
 
 <p align="center">
   <code>"I think one of the things that people need to stop doing is asking, 'What is the ultimate blockchain?'...<br>
@@ -212,7 +212,7 @@ In the video [One Small Step for Cardano; One Giant Leap for the Industry](https
 - Access to good health care (25:54)
 - Practicing gratitude (29:28)
 
-For lack of a better source, and for the benefit and longevity of Cardano, the current proposal suggests entrenching the above ideas in the [Constitution](https://constitution.gov.tools/en/interim-constitution) as minimum viable values.
+For lack of a better source considering time constraints, for the benefit and longevity of Cardano the current proposal suggests entrenching the above ideas in the [Constitution](https://constitution.gov.tools/en/interim-constitution) as minimum viable values.
 
 ## Resources
 
