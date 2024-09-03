@@ -189,7 +189,7 @@ Any smart contracts and related infrastructure that may support an implementatio
 
 <a name="removewallets"></a><sup>11</sup> Only the employer—NOT the respective employee—may send or stake (t)ADA from wallet addresses removed from closed sets. <!-- <a name="private"></a><sup>4</sup> The relationships between closed sets may be private. -->
 
-## Appendix: A Constitutional Framework Distilling Useful Human Values
+## Appendix: Distilling a Constitutional Framework Reflecting Useful Human Values
 
 In the video [One Small Step for Cardano; One Giant Leap for the Industry](https://www.youtube.com/watch?v=rqvymw3gEeA) (September 2024) published on the day of the Chang hard fork declaring independence, Charles Hoskinson directly or indirectly references the following useful human values (timings provided):
 
