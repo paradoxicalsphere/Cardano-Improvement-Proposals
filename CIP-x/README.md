@@ -26,7 +26,7 @@ In my opinion, it doesn't exist because it really depends."</code>
 <code>—<a href="https://nationworldnews.com/cardano-foundation-official-says-there-are-different-use-cases-for-different-blockchains/">Mel McCann</a>, Vice President of Engineering, Cardano Foundation</code>
 </p> -->
 
-Are you interested in responsive, emergent, collaborative and sustainable governance for Cardano, as well as greater accountability for your investments in the ecosystem, to help Cardano thrive based on <b>human values</b>? The Cardano protocol is a means to economy—not an end—and is not perfect. With appropriate governance, the protocol may not require perfection.<sup><a href="#dependency">1</a></sup>
+Are you interested in responsive, emergent, collaborative and sustainable governance for Cardano, to help Cardano not only survive but thrive based on <b>human values</b>? The Cardano protocol is a means to economy—not an end—and is not perfect. With appropriate governance, the protocol may not require perfection.<sup><a href="#dependency">1</a></sup>
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
@@ -41,7 +41,7 @@ Prior to reviewing the current proposal further, please watch the following vide
 * [Empowering Community-Driven Governance on Cardano](https://www.youtube.com/watch?app=desktop&v=YvTfSx6pv9Y) (December 2022)<sup><a href="#mbo">2</a></sup>
 * [Essential Governance: Building Strong Blockchain Foundations](https://www.youtube.com/watch?v=lHlofcMNNo8) (November 2023)
 
-<a name="dependency"></a><sup>1</sup> The current proposal incorporates research conducted by the [Center for Humane Technology](https://www.humanetech.com/). Decision-making processes based on token-weighted governance, such as [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694), are out of scope for the current proposal. **The current proposal offers an approach to mitigate risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.**
+<a name="dependency"></a><sup>1</sup> The current proposal incorporates research conducted by the [Center for Humane Technology](https://www.humanetech.com/). Decision-making processes based on token-weighted governance, such as [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694), are out of scope for the current proposal. **The current proposal offers a complementary approach to mitigate risks associated with token-weighted governance models, in which users with the most tokens have the biggest share of voting power.**
 
 <a name="mbo"></a><sup>2</sup> The video refers to the Cardano Member-Based Organization (MBO), also known as [Intersect](https://www.intersectmbo.org/).
 
