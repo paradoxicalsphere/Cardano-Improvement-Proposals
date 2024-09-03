@@ -88,11 +88,13 @@ For example, questions such as the following must be addressed:
 - How may the potential or need for changes or adjustments to the operational guidelines for such an initiative be managed?
 - What aspects of such an initiative may be administered using smart contracts?
 - Would such an initiative affect existing delegation strategies that Input Output, Cardano Foundation and EMURGO currently may practice, and if so, how?
-- How may organizations involved be set up to satisfy applicable legal and regulatory requirements?
+- How may organizations involved be set up to satisfy applicable legal and regulatory requirements?<sup><a href="#legal">5</a></sup>
 
 <a name="tada"></a><sup>3</sup> Whereas ADA is the digital currency of the Cardano Production (Mainnet) environment, tADA is the digital currency of testing environments. The current document refers to Cardano digital currencies collectively as (t)ADA.
 
 <a name="employees"></a><sup>4</sup> The current proposal does not restrict whether employees may already serve in existing roles within the respective organizations, or be newly hired explicitly or solely for the purposes of fulfilling roles related to delegating discretionary (t)ada to stake pools.
+
+<a name="legal"></a><sup>5</sup> For more information, see the <a href="#resources">Resources</a> section.
 
 ## Rationale
 
@@ -108,7 +110,7 @@ The following primary stakeholders are identified:
 
 With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of [decentralized autonomous organization](https://legalnodes.com/article/swiss-foundation-dao-legal-wrapper) (DAO) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
 
-Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016.<sup><a href="#connection">5</a></sup> In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
+Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016.<sup><a href="#connection">6</a></sup> In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
 
 <b>Token-weighted governance, in which users with the most tokens have the biggest share of voting power, can inadvertently end up handing over control to a few wealthy participants and stripping it away from the many.</b>
 
@@ -126,7 +128,7 @@ In his article, Ivanov also identifies the following opportunities. The list als
     <i>Figure 2 - The Organizational Structure of an Incorruptible DAO Within the Workplace</i>
 </p>
 
-<a name="connection"></a><sup>5</sup> For example, EMURGO and Waves both partner with the [Ergo Platform](https://ergoplatform.org/).
+<a name="connection"></a><sup>6</sup> For example, EMURGO and Waves both partner with the [Ergo Platform](https://ergoplatform.org/).
 
 ## Example Use Cases
 
