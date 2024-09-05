@@ -94,7 +94,7 @@ For example, questions such as the following must be addressed:
 
 <a name="employees"></a><sup>4</sup> The current proposal does not restrict whether employees may already serve in existing roles within the respective organizations, or be newly hired explicitly or solely for the purposes of fulfilling roles related to delegating discretionary (t)ada to stake pools.
 
-<a name="legal"></a><sup>5</sup> For some types of organizational structure that seem to warrant further attention, see the <a href="#resources">Resources</a> section.
+<a name="legal"></a><sup>5</sup> For some organizational designs that seem to warrant further attention, see the <a href="#resources">Resources</a> section.
 
 ## Rationale
 
