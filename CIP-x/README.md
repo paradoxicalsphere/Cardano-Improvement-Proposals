@@ -68,7 +68,7 @@ Often, discussion of the Prisoner's Dilemma seems to focus on logic, overlooking
 
 ## Specification
 
-The current proposal emerging from the Cardano community in the Voltaire era begins to explore the potential for a process change empowering employees of the founding entities—Input Output, Cardano Foundation and EMURGO—with discretionary (t)ADA<sup><a href="#tada">3</a></sup> to delegate to stake pools in the Production (Mainnet) environment as well as any and all testing environments. In other words, the process change would make (t)ADA available to each IO, Cardano Foundation and EMURGO employee only for delegation to one or more stake pools based on the judgement of the individual employee.<sup><a href="#employees">4</a></sup> <b>The process change aims to increase decentralization, transparency, agility and scale, potentially, of delegations to stake pools and related decisions that founding entities currently may make, and/or have made in the past. Funds that employees may delegate are investments that earn awards for founding entities according to the Cardano protocol.</b>
+The current proposal, emerging from the Cardano community in the Voltaire era of independent governance, begins to explore the potential for a process change empowering employees of the founding entities—Input Output, Cardano Foundation and EMURGO—with discretionary (t)ADA<sup><a href="#tada">3</a></sup> to delegate to stake pools in the Production (Mainnet) environment as well as any and all testing environments. In other words, the process change would make (t)ADA available to each IO, Cardano Foundation and EMURGO employee only for delegation to one or more stake pools based on the judgement of the individual employee.<sup><a href="#employees">4</a></sup> <b>The process change aims to increase decentralization, transparency, agility and scale, potentially, of delegations to stake pools and related decisions that founding entities currently may make, and/or have made in the past. Funds that employees may delegate are investments that earn awards for founding entities according to the Cardano protocol.</b>
 
 To find a balance that may help vitalize employees as well as the SPO and wider Cardano communities without introducing risks to the security of Cardano networks or any other potential forms of instability, <b>analysis, evaluation, planning, elicitation, collaboration, design, management and communication are needed from Input Output, Cardano Foundation and EMURGO to gain knowledge in support of the proposed initiative in order to complete a proposal capable of garnering sufficient community understanding and consensus to progress towards becoming operational.</b>
 
@@ -194,7 +194,7 @@ Any smart contracts and related infrastructure that may support an implementatio
 
 ## Appendix: Distilling a Constitutional Framework Reflecting Useful Human Values
 
-In the video [One Small Step for Cardano; One Giant Leap for the Industry](https://www.youtube.com/watch?v=rqvymw3gEeA) (September 2024) published on the day of the Chang hard fork declaring independence, Charles Hoskinson directly or indirectly references the following useful human values (timings provided):
+In the video [One Small Step for Cardano; One Giant Leap for the Industry](https://www.youtube.com/watch?v=rqvymw3gEeA) (September 2024) published on the day of the Chang hard fork, Charles Hoskinson directly or indirectly references the following useful human values (timings provided):
 
 - Seeking happiness (00:04)
 - Freedom of movement (00:10)
