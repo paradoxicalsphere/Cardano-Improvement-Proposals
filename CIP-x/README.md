@@ -144,7 +144,7 @@ The current proposal may introduce an opportunity for employees to participate i
 
 <a name="questions"></a><sup>8</sup> The development of poll or survey questions is out of scope for the current proposal.
 
-### Addressing the Unintended Consequence of Multiple-Pool Operators
+### Addressing the Unintended Consequences of Multiple-Pool Operators
 
 The article [Multiple Stakepool Operators are Harming Cardano](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/), published in February 2022, describes the challenge associated with stake pool operators who register multiple pools as follows:
 
@@ -162,7 +162,7 @@ In economics terms, this would be called a "Zero Sum Game," as in a situation wh
 It is with this backdrop that it becomes particularly heinous when stakepool operators just keep opening multiple pools. They’re essentially robbing opportunity from new entrants, thereby centralizing the system and making everyone worse off in the long term, because they are trying to extract as much value as they can for themselves.
 </blockquote>
 
-Using an implementation of the current proposal to address the unintended consequence of multiple-pool operators, in a scenario where multiple-pool operators may be identified as centralizing or introducing fragility into the Cardano network "too much," on individual or cooperative bases employees may delegate or redelegate discretionary (t)ADA to stake pools identified as single-pool operations for example—within the constraints established by the founding entities Input Output, Cardano Foundation and EMURGO—to maintain or restore a balance of decentralization and resilience within the network.
+Using an implementation of the current proposal to address the unintended consequences of multiple-pool operators, in a scenario where the number of SPOs operating multiple unsaturated stake pools may be identified as centralizing or introducing fragility into the Cardano ecosystem "too much," on individual, cooperative or collective bases employees may delegate or redelegate discretionary (t)ADA to stake pools identified as single-pool operations for example—within the constraints established by the founding entities Input Output, Cardano Foundation and EMURGO—to maintain or restore a balance of decentralization and resilience within the network.
 
 ## Backwards Compatibility
 
