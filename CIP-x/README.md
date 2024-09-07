@@ -217,7 +217,7 @@ In the video [One Small Step for Cardano; One Giant Leap for the Industry](https
 - Access to good health care (25:54)
 - Practicing gratitude (29:28)
 
-For the benefit and longevity of Cardano, the current proposal supports entrenching the aforementioned ideas in the [Constitution](https://constitution.gov.tools/en/interim-constitution) as minimum viable values.
+For the benefit and longevity of Cardano, the current proposal supports embedding the aforementioned ideas in the [Constitution](https://constitution.gov.tools/en/interim-constitution) as minimum viable values.
 
 ## Resources
 
