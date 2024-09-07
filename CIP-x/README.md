@@ -64,9 +64,9 @@ Communication between the Cardano stake pool operator community and employees of
 
 Based on the Prisoner's Dilemma, where the SPO community may be represented as Prisoner A and employees may be represented as Prisoner B, or vice versa, the current proposal aims to achieve an outcome based on trust, mutual benefit, cooperation and coordination for each "prisoner" as well as in the relationship between "prisoners," rather than an outcome based on self interest.
 
-Often, discussion of the Prisoner's Dilemma seems to focus on logic, overlooking how an outcome of a dilemma may affect the world view and relationships for involved "prisoners" long after the outcome, with ongoing potential for entrenching and escalating patterns of betrayal—or for building trust—over time.
+Often, discussion of the Prisoner's Dilemma seems to focus on logic or the outcome of a single interaction, overlooking how an outcome of a dilemma may affect the world view and relationships for involved "prisoners" in subsequent transactions, with ongoing potential for entrenching and escalating patterns of betrayal—or for building trust—over time.
 
-<a name="betray"></a><sup>3</sup> For example, 
+<a name="betray"></a><sup>3</sup> For example, the suggestion to [burn all of the funds in the treasury](https://www.youtube.com/live/57d2_Knd4mI) is a betrayal.
 
 ## Specification
 
