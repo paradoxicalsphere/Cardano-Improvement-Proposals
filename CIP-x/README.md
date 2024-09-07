@@ -66,7 +66,7 @@ Based on the Prisoner's Dilemma, where the SPO community may be represented as P
 
 Often, discussion of the Prisoner's Dilemma seems to focus on logic or the outcome of a single interaction, overlooking how an outcome of a dilemma may affect the world view and relationships for involved "prisoners" in subsequent transactions, with ongoing potential for entrenching and escalating patterns of betrayal—or for building trust—over time.
 
-<a name="betray"></a><sup>3</sup> For example, the idea to [burn all of the funds in the treasury](https://www.youtube.com/live/57d2_Knd4mI) suggests betraying.
+<a name="betray"></a><sup>3</sup> For example, the idea to [burn all of the funds in the treasury](https://www.youtube.com/live/57d2_Knd4mI) suggests choosing betrayal.
 
 ## Specification
 
