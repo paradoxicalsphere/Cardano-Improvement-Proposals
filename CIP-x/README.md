@@ -218,7 +218,7 @@ In the video [One Small Step for Cardano; One Giant Leap for the Industry](https
 - Access to good health care (25:54)
 - Practicing gratitude (29:28)
 
-Supporting the human potential for world peace, the current proposal would suggest embedding the aforementioned principles in the [Constitution](https://constitution.gov.tools/en/interim-constitution) as minimum viable values.
+In support of the human potential for world peace, the current proposal would suggest embedding the aforementioned principles in the [Constitution](https://constitution.gov.tools/en/interim-constitution) as minimum viable values.
 
 ## Resources
 
