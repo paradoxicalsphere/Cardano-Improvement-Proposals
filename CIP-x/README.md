@@ -263,9 +263,10 @@ Consider the following related articles and other resources:
     <!-- - [The True Meaning of Community](https://d3n8a8pro7vhmx.cloudfront.net/fce/pages/16/attachments/original/1419804654/True_Meaning_of_community.pdf) -->
     <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
     <!-- - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD -->
+    - [Why You Need More Women at Your Workplace](https://www.linkedin.com/feed/update/urn:li:activity:7241302346318630912/)
+    - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/about-cardano/explore-more/relevant-research-papers/#voltaire)
     - [Greenpilled: How Crypto Can Regenerate the World](https://www.worldcat.org/title/1303554957)
     - [Center for Humane Technology](https://www.humanetech.com/)
-    - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/about-cardano/explore-more/relevant-research-papers/#voltaire)
     <!-- - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589) -->
     <!-- - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362) -->
     <!-- - [Empowering Community-Driven Governance on Cardano](https://youtu.be/YvTfSx6pv9Y?si=6wacibbUWA-Vw_Cx) -->
