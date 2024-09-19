@@ -218,7 +218,7 @@ In the video [One Small Step for Cardano; One Giant Leap for the Industry](https
 - Access to good health care (25:54)
 - Practicing gratitude (29:28)
 
-As in 2024 the world is currently on a path to World War III, and as the [Cardano Constitution](https://constitution.gov.tools/en/interim-constitution) is a document intended for a global audience discussing how we we intend and agree to treat each other, acknowledging the eternal human potential for world peace the current proposal suggests embedding the aforementioned principles in the Cardano Constitution as minimum viable values.
+As in the year 2024 the world is currently on a path to World War III, and as the [Cardano Constitution](https://constitution.gov.tools/en/interim-constitution) is a document intended for a global audience discussing how we we intend and agree to treat each other, acknowledging the eternal human potential for world peace the current proposal suggests embedding the aforementioned principles in the Cardano Constitution as minimum viable values.
 
 ## Resources
 
