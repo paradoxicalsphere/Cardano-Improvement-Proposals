@@ -222,7 +222,7 @@ As in the year 2024:
 
 1. The world is currently experiencing dysfunctional tension on a path to World War III, and
 2. Dysfunctional tension holds the potential for change, and
-3. As the [Cardano Constitution](https://constitution.gov.tools/en/interim-constitution) is a document intended for a global audience discussing how we we intend and agree to treat each other, and
+3. As the [Cardano Constitution](https://constitution.gov.tools/en/interim-constitution) is a document intended for a global audience articulating how we intend and agree to treat each other, and
 4. The Cardano Constitution thereby having the potential to increase the fitness of the global system at all scales in order to dissipate tension and increase everyone's ability to thrive in the given environment,
 
 The current proposal suggests embedding the aforementioned principles in the Cardano Constitution as minimum viable values.
