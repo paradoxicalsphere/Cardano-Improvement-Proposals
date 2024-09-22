@@ -113,7 +113,7 @@ The following primary stakeholders are identified:
 
 With further stakeholder engagement and research, over the longer term perhaps the current proposal may support the creation of a form of [decentralized autonomous organization](https://legalnodes.com/article/swiss-foundation-dao-legal-wrapper) (DAO) for Input Output, Cardano Foundation and EMURGO employees to help with governance of the SPO community.
 
-Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016.<sup><a href="#connection">7</a></sup> In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
+In token-weighted governance models, money is considered more important than people. Sasha Ivanov, a theoretical physicist by background, founded the [Waves](https://waves.tech/) blockchain platform in 2016.<sup><a href="#connection">7</a></sup> In the article [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance) published in September 2022, Ivanov identifies the following primary risk associated with DAOs in practice:
 
 <b>Token-weighted governance, in which users with the most tokens have the biggest share of voting power, can inadvertently end up handing over control to a few wealthy participants and stripping it away from the many.</b>
 
