@@ -1,5 +1,7 @@
 # Constitution of the Cardano Blockchain (by [ChatGPT](https://openai.com/chatgpt/))
 
+`Prompt: write a constitution for the cardano blockchain`
+
 ## Preamble
 
 We, the members of the Cardano community, in order to establish a decentralized, secure, and inclusive blockchain ecosystem, do hereby ordain and establish this Constitution. Our goal is to promote innovation, foster collaboration, and ensure the sustainability of the Cardano network for the benefit of all participants.
