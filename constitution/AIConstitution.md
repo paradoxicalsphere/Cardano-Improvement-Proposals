@@ -4,11 +4,11 @@
   <p>After two or more years of planning, preparation and development to implement a governance framework in the <a href="https://roadmap.cardano.org/en/">Voltaire</a> era, currently <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating in-person Constitutional Workshops held in cities around the world from August to October this year. The workshops are designed with two objectives in mind:</p>
   
   <ul>
-    <li>Gather broad and diverse community input on the Draft Constitution.</li>
+    <li>Gather broad and diverse community input on the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a>.</li>
     <li>Select Constitutional Delegates to attend the <a href="https://www.emurgo.io/press-news/what-to-know-about-the-cardano-constitutional-convention-intersect/">Constitutional Convention</a> in Buenos Aires in December 2024 to complete and present to the community a draft of the Constitution for ratification.</li>
   </ul>
 
-  <p>In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to <code>write a constitution for the cardano blockchain</code> returning the following results.</p>
+  <p>In response to the suggestion in the Draft Constitution that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to <code>write a constitution for the cardano blockchain</code> returning the following results.</p>
   
   <p>—paradoxicalsphere (September 2024)</p>
 </blockquote>
