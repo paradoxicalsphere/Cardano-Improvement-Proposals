@@ -1,7 +1,7 @@
 # Constitution of the Cardano Blockchain (by [ChatGPT](https://openai.com/chatgpt/))
 
 <blockquote>
-  Currently, <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating in-person Constitutional Workshops held in cities around the world from August to October this year. The workshops are designed with two objectives:
+  <p>Currently, <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating in-person Constitutional Workshops held in cities around the world from August to October this year. The workshops are designed with two objectives:</p>
   <br></br>
   
   <ul>
@@ -9,10 +9,10 @@
     <li>Select Constitutional Delegates to attend the Constitutional Convention in Buenos Aires in December 2024.</li>
   </ul>
 
-  In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to <code>write a constitution for the cardano blockchain</code> returning the following results.
+  <p>In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to <code>write a constitution for the cardano blockchain</code> returning the following results.</p>
   <br />
   <br />
-  —paradoxicalsphere (September 2024)
+  <p>—paradoxicalsphere (September 2024)</p>
 </blockquote>
 
 ## Preamble
