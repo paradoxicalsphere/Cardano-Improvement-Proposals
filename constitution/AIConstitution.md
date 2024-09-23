@@ -1,7 +1,7 @@
 # Constitution of the Cardano Blockchain (by [ChatGPT](https://openai.com/chatgpt/))
 
 <blockquote>
-  <p>Currently, <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating in-person Constitutional Workshops held in cities around the world from August to October this year. The workshops are designed with two objectives in mind:</p>
+  <p>After almost two years of planning and development, currently <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating in-person Constitutional Workshops held in cities around the world from August to October this year. The workshops are designed with two objectives in mind:</p>
   
   <ul>
     <li>Gather broad and diverse community input on the Draft Constitution.</li>
