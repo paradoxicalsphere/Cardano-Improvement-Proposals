@@ -272,6 +272,7 @@ Consider the following related articles and other resources:
     <!-- https://chattanoogaendeavors.org/service/community-building/stages/ -->
     <!-- - [Stages of Community Making](https://chattanoogaendeavors.org/wp-content/uploads/2019/04/The-Different-Drum-Chapter-5.pdf) by M. Scott Peck, MD -->
     <!-- - [Why You Need More Women at Your Workplace](https://www.linkedin.com/feed/update/urn:li:activity:7241302346318630912/) -->
+    - [Constitution of the Cardano Blockchain (by ChatGPT)](../constitution/AIConstitution.md)
     - [World](https://youtu.be/1JDY1KvoQYk?si=57Gfyhqm5efA9X25)
     - [Greenpilled: How Crypto Can Regenerate the World](https://www.worldcat.org/title/1303554957)
     - [Center for Humane Technology](https://www.humanetech.com/)
