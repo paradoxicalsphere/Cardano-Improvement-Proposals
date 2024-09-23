@@ -1,6 +1,6 @@
 # Constitution of the Cardano Blockchain (by [ChatGPT](https://openai.com/chatgpt/))
 
-`Prompt: write a constitution for the cardano blockchain`
+`Message ChatGPT: write a constitution for the cardano blockchain`
 
 ## Preamble
 
