@@ -5,7 +5,7 @@
   
   <ul>
     <li>Gather broad and diverse community input on the Draft Constitution.</li>
-    <li>Select Constitutional Delegates to attend the Constitutional Convention in Buenos Aires in December 2024 to ratify the Constitution.</li>
+    <li>Select Constitutional Delegates to attend the <a href="https://www.emurgo.io/press-news/what-to-know-about-the-cardano-constitutional-convention-intersect/">Constitutional Convention</a> in Buenos Aires in December 2024 to complete and present to the community a draft of the Constitution for ratification.</li>
   </ul>
 
   <p>In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to <code>write a constitution for the cardano blockchain</code> returning the following results.</p>
