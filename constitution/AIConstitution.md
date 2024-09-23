@@ -9,8 +9,7 @@
   </ul>
 
   <p>In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to <code>write a constitution for the cardano blockchain</code> returning the following results.</p>
-  <br />
-  <br />
+  
   <p>—paradoxicalsphere (September 2024)</p>
 </blockquote>
 
