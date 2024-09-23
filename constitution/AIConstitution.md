@@ -1,7 +1,9 @@
 # Constitution of the Cardano Blockchain (by [ChatGPT](https://openai.com/chatgpt/))
 
 <blockquote>
-  In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to `write a constitution for the cardano blockchain` ChatGPT returned the following results. —paradoxicalsphere
+  In response to the suggestion in the <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution">Draft Constitution</a> that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, I messaged ChatGPT to `write a constitution for the cardano blockchain` ChatGPT returned the following results.
+  <br />
+  —paradoxicalsphere
 </blockquote>
 
 ## Preamble
