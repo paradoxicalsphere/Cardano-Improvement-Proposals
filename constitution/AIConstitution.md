@@ -2,7 +2,6 @@
 
 <blockquote>
   Currently, <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating in-person Constitutional Workshops held in cities around the world from August to October this year. The workshops are designed with two objectives:
-  
   <br></br>
   
   <ul>
