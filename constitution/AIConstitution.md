@@ -12,7 +12,7 @@
 
   <p>There seems some irony in the observation that the draft prepared by human beings seeks to incorporate elements of desiring to use bots or algorithms in Cardano governance, whereas applying the logic by asking a chatbot to prepare a constitution returns a constitution addressed only to human beings and reflecting only human values. While some may interpret the observation as a reason to continue including support for bots as well as possibly processing that a chatbot may offer in the Draft Constitution that has been a work in progress for such a long time without concern for unintended consequences, others may conclude that consequently the idea of implementing script-based DReps should be removed from the Constitution in order to support the governance process fully (or, perhaps to follow the suggestion of the chatbot).
     
-  <p>What do you think about the incentives and outcomes?</p>
+  <p>Considering incentives and outcomes, what do you think?</p>
   
   <p>—<a href="mailto:support@paradoxicalsphere.com">paradoxicalsphere</a> (September 2024)</p>
 </blockquote>
