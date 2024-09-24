@@ -1,7 +1,6 @@
 # Constitution of the Cardano Blockchain (by [ChatGPT](https://openai.com/chatgpt/))
 
 <blockquote>
-  <h3>Incentives and Outcomes</h3>
   <p>After more than two years of planning, preparation and development to implement a governance framework in the <a href="https://roadmap.cardano.org/en/">Voltaire</a> era, currently <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating approximately 75 in-person <a href="https://lu.ma/constitution">Constitutional Workshops</a> held in cities around the world for about three months from August to October this year. The workshops are designed with two objectives in mind:</p>
   
   <ul>
@@ -13,7 +12,7 @@
 
   <p>There seems some irony in the observation that the draft prepared by human beings seeks to incorporate elements of desiring to use bots or algorithms in Cardano governance, whereas applying the logic by asking a chatbot to prepare a constitution returns a constitution addressed only to human beings and reflecting only human values. While some may interpret the observation as a reason to continue including support for bots as well as possibly processing that a chatbot may offer in the Draft Constitution that has been a work in progress for such a long time without concern for unintended consequences, others may conclude that consequently the idea of implementing script-based DReps should be removed from the Constitution in order to support the governance process fully (or, perhaps to follow the suggestion of the chatbot).
     
-  <p>What do you think?</p>
+  <p>What do you think about the incentives and outcomes?</p>
   
   <p>—<a href="mailto:support@paradoxicalsphere.com">paradoxicalsphere</a> (September 2024)</p>
 </blockquote>
