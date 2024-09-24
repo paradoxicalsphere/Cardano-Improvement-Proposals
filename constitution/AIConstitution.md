@@ -15,7 +15,7 @@
     
   <p>What do you think?</p>
   
-  <p>—[paradoxicalsphere]() (September 2024)</p>
+  <p>—<a href="mailto:support@paradoxicalsphere.com">paradoxicalsphere</a> (September 2024)</p>
 </blockquote>
 
 ## Preamble
