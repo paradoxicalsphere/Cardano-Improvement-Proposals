@@ -14,7 +14,7 @@
     <li>Select Constitutional Delegates to attend the <a href="https://www.emurgo.io/press-news/what-to-know-about-the-cardano-constitutional-convention-intersect/">Constitutional Convention</a> in Buenos Aires, Argentina in December 2024 to complete and present to the community a draft of the Constitution for review and ratification in a network-wide vote to be scheduled early in 2025.</li>
   </ul>
 
-  <p>In response to the suggestion in the current Draft Constitution that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, today I messaged the ChatGPT artificial intelligence (AI) chatbot to <code>write a constitution for the cardano blockchain</code>, yielding the following results immediately.</p>
+  <p>In direct response to the suggestion in the current Draft Constitution that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, today I messaged the ChatGPT artificial intelligence (AI) chatbot to <code>write a constitution for the cardano blockchain</code>, yielding the following results immediately.</p>
   
   <p>What document—the Draft Constitution or chatbot processing—do you, your family and friends find more inspiring? There seems some irony in the observation that the draft prepared by human beings seeks to incorporate elements of desiring to use bots or algorithms in Cardano governance, and applying the logic of the human draft by asking a chatbot to prepare a constitution returns a constitution addressed only to human beings and reflecting human values.</p>
     
