@@ -18,7 +18,7 @@
   
   <p>In a side-by-side comparison, how do you, your family and friends feel about the Draft Constitution and chatbot processing? There seems some irony in the observation that the draft prepared by human beings seeks to incorporate elements of desiring to use bots or algorithms in Cardano governance, while extending and applying the logic of the human draft practically by asking a chatbot to prepare a constitution returns a constitution addressed only to human beings and reflecting human values.</p>
     
-  <p>Some may evaluate the chatbot processing as a reason to continue including support for bots—and perhaps even include processing that a chatbot may offer—in the Draft Constitution without concern for unintended consequences. Others may conclude that the idea of implementing script-based DReps should consequently be removed from the Constitution to foster a deeper understanding and awareness of a successful governance process between people in the community (or, perhaps to follow the implicit suggestion of the chatbot).</p>
+  <p>Some may evaluate the chatbot processing as a reason to continue including support for bots—and perhaps even include processing that a chatbot may offer—in the Draft Constitution without concern for unintended consequences. Others may conclude that the idea of implementing script-based DReps should consequently be removed from the Constitution to encourage fostering and developing a deeper, more robust understanding and awareness of the governance process between people in the community (or, perhaps to follow the implicit suggestion of the chatbot).</p>
     
   <p>Considering incentives and outcomes, what do you think?</p>
   
