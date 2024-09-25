@@ -2,7 +2,7 @@
 
 <blockquote>
   <p align="center">
-    <code>"Show me the incentive and I’ll show you the outcome."</code>
+    <code>"Show me the incentive, and I’ll show you the outcome."</code>
   </p>
   <p align="center">
     <code>—Charlie Munger</code>
