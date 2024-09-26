@@ -5,7 +5,11 @@
 [Executive Summary](#summary)  
 [Inputs and Outputs](#io)  
 [Assumptions and Constraints](#assumptions)  
+[Solution Components](#components)  
+[Methodologies](#methodologies)  
 [Feasibility](#feasibility)  
+[Conclusion](#conclusion)  
+[Thanks](#thanks)  
 
 ## Executive Summary<a name="summary"></a>
 
@@ -27,4 +31,21 @@ Use the solution approach to define the solution scope.
 
 
 
+## Solution Components<a name="components"></a>
+
+
+
+## Methodologies<a name="methodologies"></a>
+
+
+
 ## Feasibility<a name="feasibility"></a>
+
+
+
+## Conclusion<a name="conclusion"></a>
+
+
+
+## Thanks<a name="thanks"></a>
+
