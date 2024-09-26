@@ -40,11 +40,11 @@ Use the solution approach to define the solution scope.
 
 ### New Processes<a name="components"></a>
 
-
+<!-- START HERE Discuss KPIs -->
 
 ### Software Applications<a name="software"></a>
 
-
+<!-- Discuss subnet and smart contract requirements. Ask Jordan (Aragon)? -->
 
 ## Methodologies<a name="methodologies"></a>
 
@@ -52,7 +52,7 @@ Use the solution approach to define the solution scope.
 
 ## Feasibility<a name="feasibility"></a>
 
-
+<!-- Discuss HR and employment standards -->
 
 ## Conclusion<a name="conclusion"></a>
 
