@@ -2,8 +2,8 @@
 
 ## Contents
 
-[Executive Summary](#summary)
-[Inputs and Outputs](#io)
+[Executive Summary](#summary)  
+[Inputs and Outputs](#io)  
 
 ## Executive Summary<a name="summary"></a>
 
