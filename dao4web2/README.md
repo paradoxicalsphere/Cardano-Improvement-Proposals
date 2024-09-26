@@ -44,7 +44,17 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Effecti
 
 ### New Processes<a name="components"></a>
 
+Depending on the business needs, existing organizational processes and required capabilities, a DAO established in a workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams or management within the organization.
+
+In the current proposal, the membership of a DAO established in a workplace is comprised of employees. 
+
+<!-- QUESTION: How may DAOs established within workplaces interact or associate with unions to which employees may belong? -->
+
+Responsibilities of the DAO align with KPIs
+
 <!-- START HERE Discuss KPIs -->
+
+<!-- Maybe a DAO within the workplace is a new form of union -->
 
 ### Software Applications<a name="software"></a>
 
