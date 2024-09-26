@@ -20,7 +20,9 @@ Decentralized Autonomous Organizations (DAOs) have been heralded as the future o
 
 The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established to ensure that the DAO remains incorruptible over time.
 
-The proposal aims to describe the required solution components, such as new processes and software applications, as well as methodologies to deliver the components successfully.
+Establishing a DAO may help prepare and position an existing organization or workplace to survive and thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient, vibrant in response to changing social and market conditions, becoming more productive and competitive. Establishing a DAO may also help an organization or workplace continue to attract the best talent in the next generation of workers.
+
+The proposal aims to describe the solution components—such as new processes and software applications—as well as methodologies to deliver the components in order to establish a DAO successfully in an existing organization or workplace.
 
 ## Inputs and Outputs<a name="io"></a>
 
