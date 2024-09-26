@@ -4,6 +4,8 @@
 
 [Executive Summary](#summary)  
 [Inputs and Outputs](#io)  
+[Assumptions and Constraints](#assumptions)  
+[Feasibility](#feasibility)  
 
 ## Executive Summary<a name="summary"></a>
 
@@ -19,4 +21,8 @@ Determining the solution approach relies on the following inputs:
 
 Use the solution approach to define the solution scope.
 
-## 
+## Assumptions and Constraints<a name="assumptions"></a>
+
+
+
+## Feasibility<a name="feasibility"></a>
