@@ -35,6 +35,14 @@ Use the solution approach to define the solution scope.
 
 
 
+### New Processes<a name="components"></a>
+
+
+
+### Software Applications<a name="software"></a>
+
+
+
 ## Methodologies<a name="methodologies"></a>
 
 
