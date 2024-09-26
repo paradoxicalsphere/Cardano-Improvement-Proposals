@@ -46,7 +46,7 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Effecti
 
 Depending on the business needs, existing organizational processes and required capabilities, a DAO established in a workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams or management within the organization.
 
-In the current proposal, the membership of a DAO established in a workplace is comprised of employees. 
+In the current proposal, the membership of a DAO established in a workplace is comprised of employees. Management is empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that the goal of a DAO is building cooperation.
 
 <!-- QUESTION: How may DAOs established within workplaces interact or associate with unions to which employees may belong? -->
 
