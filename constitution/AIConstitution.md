@@ -14,6 +14,13 @@
     <li>Select Constitutional Delegates to attend the <a href="https://www.emurgo.io/press-news/what-to-know-about-the-cardano-constitutional-convention-intersect/">Constitutional Convention</a> in Buenos Aires, Argentina in December 2024 to complete and present to the community a draft of the Constitution for review and ratification in a network-wide vote to be scheduled early in 2025.</li>
   </ul>
 
+  <p align="center">
+    <code>"If you say why not [betray] them tomorrow, I say why not today? If you say today at five o'clock, I say why not one o'clock?"</code>
+  </p>
+  <p align="center">
+    <code>—John von Neumann</code>
+  </p>
+
   <p>With such a monumental and historic effort of coordination and collaboration underway, in response to the suggestion in the current Draft Constitution that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, today I simply extended and applied the same logic by messaging the ChatGPT artificial intelligence (AI) chatbot to <code>write a constitution for the cardano blockchain</code>, yielding the following results in no time at all.</p>
 
   <p align="center">
