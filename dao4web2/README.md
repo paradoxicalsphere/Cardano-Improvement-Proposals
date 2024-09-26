@@ -44,7 +44,7 @@ Use the solution approach to define the solution scope.
 
 ### Software Applications<a name="software"></a>
 
-<!-- Discuss subnet and smart contract requirements. Ask Jordan (Aragon)? -->
+<!-- Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum. Ask Jordan (Aragon)? -->
 
 ## Methodologies<a name="methodologies"></a>
 
