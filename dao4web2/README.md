@@ -54,6 +54,8 @@ Use the solution approach to define the solution scope.
 
 <!-- Discuss HR and employment standards -->
 
+<!-- Discuss identified problems and problem statements -->
+
 ## Conclusion<a name="conclusion"></a>
 
 
