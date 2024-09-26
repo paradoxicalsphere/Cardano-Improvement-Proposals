@@ -36,7 +36,7 @@ Use the solution approach to define the solution scope.
 
 
 
-Successful DAOs build trust.<sup><a href="#Veritasium">2</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#Sterzik">3</a></sup>
+Successful DAOs build trust.<sup><a href="#Veritasium">2</a></sup> Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
 
 ## Solution Components<a name="components"></a>
 
@@ -74,5 +74,7 @@ Successful DAOs build trust.<sup><a href="#Veritasium">2</a></sup> Working to bu
 
 <a name="Veritasium"></a><sup>2</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="Sterzik"></a><sup>3</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+<a name="SterzikThesis"></a><sup>3</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+
+<a name="SterzikTrust"></a><sup>4</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
 
