@@ -36,6 +36,8 @@ Use the solution approach to define the solution scope.
 
 
 
+Successful DAOs build trust.<sup><a href="#Veritasium">2</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#Sterzik">3</a></sup>
+
 ## Solution Components<a name="components"></a>
 
 
@@ -69,3 +71,8 @@ Use the solution approach to define the solution scope.
 ## References<a name="references"></a>
 
 <a name="SashaIvanov"></a><sup>1</sup> [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
+
+<a name="Veritasium"></a><sup>2</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
+
+<a name="Sterzik"></a><sup>3</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+
