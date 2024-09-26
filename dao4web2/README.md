@@ -54,6 +54,8 @@ In the current proposal, the membership of a DAO established in an organization 
 
 Responsibilities of the DAO align with KPIs
 
+Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
+
 <!-- START HERE Discuss KPIs -->
 
 <!-- Maybe a DAO within the workplace is a new form of union -->
