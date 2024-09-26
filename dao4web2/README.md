@@ -1,4 +1,4 @@
-# Establishing an Incorruptible DAO Within Organizations and Workplaces
+# Establishing an Incorruptible DAO Within Existing Organizations and Workplaces
 
 ## Contents
 
