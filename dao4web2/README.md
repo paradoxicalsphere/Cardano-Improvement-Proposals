@@ -36,7 +36,7 @@ Use the solution approach to define the solution scope.
 
 
 
-Successful DAOs build trust.<sup><a href="#Veritasium">2</a></sup> Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
+Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
 
 ## Solution Components<a name="components"></a>
 
