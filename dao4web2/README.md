@@ -72,7 +72,7 @@ Responsibilities of the DAO align with KPIs
 
 ## Conclusion<a name="conclusion"></a>
 
-
+Organizations and workplaces operating DAOs may benefit from increased employee engagement, as well as improved ability to respond to customer needs.
 
 ## Thanks<a name="thanks"></a>
 
