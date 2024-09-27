@@ -101,7 +101,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ## Conclusion<a name="conclusion"></a>
 
-Within constraints set by management, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work. Managers provide the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams.<sup><a href="#JuliaMartins">5</a></sup> 
+Within constraints set by management, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work. Managers provide the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams.<sup><a href="#JuliaMartins">5</a></sup> Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">6</a></sup>
 
 
 
@@ -120,4 +120,6 @@ Within constraints set by management, DAOs introduce a layer of operation into e
 <a name="KPIs"></a><sup>4</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
 <a name="JuliaMartins"></a><sup>5</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+
+<a name="SterzikThesis"></a><sup>6</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
