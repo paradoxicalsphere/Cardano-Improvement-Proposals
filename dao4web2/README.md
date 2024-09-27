@@ -24,7 +24,7 @@ The current proposal offers a solution approach for implementing a DAO within an
 
 Establishing a DAO may help prepare and position an existing organization or workplace to thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
 
-Establishing a DAO may also help an organization or workplace continue to attract the best talent in the next generations of workers.
+Establishing a DAO may help an organization or workplace continue to attract the best talent in the next generations of workers.
 
 The proposal aims to describe solution components—such as new processes and software applications—as well as methodologies to establish a DAO successfully in an existing organization or workplace.
 
