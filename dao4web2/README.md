@@ -16,7 +16,7 @@
 
 ## Executive Summary<a name="summary"></a>
 
-Decentralized Autonomous Organizations (DAOs) offer a model for decision making that distributes voting rights across all members. For example, whereas members in a labor union elect a centralized leadership, there is usually no central authority in a DAO—only the will of the collective. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities more traditionally associated with management levels. The relationship between unions and DAOs is complementary.
+Decentralized Autonomous Organizations (DAOs) offer a model for decision making that distributes voting rights across all members. For example, whereas members in a labor union elect a centralized leadership, there is usually no central authority in a DAO—only the will of the collective. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between unions and DAOs is complementary.
 
 DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, in which users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
 
