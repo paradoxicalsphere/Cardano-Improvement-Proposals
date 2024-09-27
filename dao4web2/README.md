@@ -56,7 +56,7 @@ The DAO architecture introduces a new decision-making apparatus that provides op
 
 In the DAO, decision-making power in the form of tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">4</a></sup> Assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup>
 
-Management and union leadership, if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that the goal of a DAO is building cooperation.
+Management, and union leadership if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that the goal of a DAO is building cooperation.
 
 Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
 
