@@ -46,7 +46,7 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working
 
 ### New Processes<a name="components"></a>
 
-In the current proposal, the membership of a DAO established in an organization or workplace is comprised of employees. Depending on the business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams or management within the organization. The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit. 
+In the current proposal, the membership of a DAO established in an organization or workplace is comprised of employees. Depending on the business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams or management within the organization. The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
 
 
@@ -71,6 +71,8 @@ Customers may benefit from improved organizational responsiveness and engagement
 <!-- Maybe a DAO within the workplace is a new form of union -->
 
 ### Software Applications<a name="software"></a>
+
+In a DAO, decision-making power typically is associated with a token created on a blockchain. Tokens represent a form of resource allocation.
 
 <!-- Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum. Ask Jordan (Aragon)? -->
 
