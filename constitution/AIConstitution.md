@@ -41,7 +41,7 @@
     
   <p>Considering incentives and outcomes, what do you think?</p>
   
-  <p>—<a href="mailto:support@paradoxicalsphere.com">paradoxicalsphere</a> (September 2024)</p>
+  <p>—<a href="https://change.paradoxicalsphere.com">paradoxicalsphere</a> (September 2024)</p>
 </blockquote>
 
 ## Preamble
