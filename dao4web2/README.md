@@ -90,7 +90,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ## Conclusion<a name="conclusion"></a>
 
-Within constraints set by management, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work. Managers provide the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams.<sup><a href="#JuliaMartins">5</a></sup>
+Within constraints set by management, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work. Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams.<sup><a href="#JuliaMartins">5</a></sup>
 
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">6</a></sup>
 
