@@ -72,7 +72,7 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 ### Software Applications<a name="software"></a>
 
-In a DAO, decision-making power typically is associated with a token created on a blockchain. Tokens represent a form of resource allocation.
+In a DAO, decision-making power typically is associated with a token created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably.
 
 <!-- Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum. Ask Jordan (Aragon)? -->
 
