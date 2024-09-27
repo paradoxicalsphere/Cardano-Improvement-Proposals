@@ -40,7 +40,7 @@ Use the solution approach to define the solution scope.
 
 ## Assumptions and Constraints<a name="assumptions"></a>
 
-
+<!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
 
 Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">3</a></sup>
 
@@ -74,13 +74,13 @@ When designing a DAO, the solution approach informs the solution scope.
 
 
 
-<!-- Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum. Ask Jordan (Aragon)? -->
+<!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan (Aragon) -->
 
 ## Methodologies<a name="methodologies"></a>
 
 <!-- If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO -->
 
-<!-- Discuss methodologies with Andrea Gallagher -->
+<!-- TO-DO: Discuss methodologies with Andrea Gallagher -->
 
 ## Feasibility<a name="feasibility"></a>
 
