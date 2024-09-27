@@ -35,7 +35,7 @@
   
   <p>There seems some irony in the observation that the draft prepared by human beings seeks to incorporate elements of desiring to use bots and algorithms in Cardano governance, while asking a chatbot to prepare a constitution returns a document focussed solely on people acting intelligently in ways that benefit both themselves and others.</p>
     
-  <p>Some may evaluate the chatbot processing as a reason to continue including support for bots—and perhaps even include processing that a chatbot may offer—in the Draft Constitution without concern for consequences, intended or unintended. In other words, "The end justifies the means."<\p>
+  <p>Some may evaluate the chatbot processing as a reason to continue including support for bots—and perhaps even include processing that a chatbot may offer—in the Draft Constitution without concern for consequences, intended or unintended. In other words, "The end justifies the means."</p>
     
   <p>Others may conclude that the idea of implementing script-based DReps should consequently be removed from the Constitution to encourage fostering and celebrating a deeper, more robust understanding and awareness of the governance process between people engaged in relationship in the Cardano ecosystem... or, perhaps simply to follow the implicit suggestion of the chatbot.</p>
     
