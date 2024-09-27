@@ -66,7 +66,7 @@ Management and union leadership, if applicable, are empowered to revise the oper
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/main/dao4web2/images/DAOs%20Within%20Workplaces.png" alt="" title="">
     <br>
-    <i>Figure 1 - Stakeholders in an Incorruptible DAO Within an Organization or Workplace</i>
+    <i>Figure 1 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
 
 
