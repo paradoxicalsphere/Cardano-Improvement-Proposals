@@ -16,13 +16,13 @@
 
 ## Executive Summary<a name="summary"></a>
 
-Decentralized Autonomous Organizations (DAO) DAOs offer a model for decision making that distributes voting rights across all members. There is usually no central authority, only the will of the collective. DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. Historically, DAOs rely on token-weighted governance, in which users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
+Decentralized Autonomous Organizations (DAO) DAOs offer a model for decision making that distributes voting rights across all members. Whereas members in a labor union elect a centralized leadership, there is usually no central authority in a DAO—only the will of the collective. DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. Historically, DAOs rely on token-weighted governance, in which users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
 
 The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established, to ensure that a DAO remains incorruptible over time.
 
 Establishing a DAO may help prepare and position an existing organization or workplace to survive and thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive. Establishing a DAO may also help an organization or workplace continue to attract the best talent in the next generations of workers.
 
-The proposal aims to describe solution components—such as new processes and software applications—as well as methodologies to establish a DAO successfully in an existing organization or workplace.
+The current proposal aims to describe solution components—such as new processes and software applications—as well as methodologies to establish a DAO successfully in an existing organization or workplace.
 
 ## Inputs and Outputs<a name="io"></a>
 
@@ -46,10 +46,9 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working
 
 ### New Processes<a name="components"></a>
 
-In the current proposal, the membership of a DAO established in an organization or workplace is comprised of employees. Depending on the business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams or management within the organization. The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
+In the current proposal, the membership of a DAO established in an organization or workplace is comprised of employees. Depending on the business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams or management within the organization.
 
-
-
+The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
 
  based on meritocracy
@@ -69,6 +68,8 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 
 <!-- Maybe a DAO within the workplace is a new form of union -->
+
+When designing a DAO, the solution approach informs the solution scope.
 
 ### Software Applications<a name="software"></a>
 
