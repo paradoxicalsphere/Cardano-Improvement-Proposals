@@ -16,11 +16,15 @@
 
 ## Executive Summary<a name="summary"></a>
 
-Decentralized Autonomous Organizations (DAO) DAOs offer a model for decision making that distributes voting rights across all members. Whereas members in a labor union elect a centralized leadership, for example, there is usually no central authority in a DAO—only the will of the collective. DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. Historically, DAOs rely on token-weighted governance, in which users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
+Decentralized Autonomous Organizations (DAO) DAOs offer a model for decision making that distributes voting rights across all members. Whereas members in a labor union elect a centralized leadership, for example, there is usually no central authority in a DAO—only the will of the collective. Within an existing organization or workplace, DAO members may assume some duties and responsibilities more typically associated with management levels. The relationship between unions and DAOs is complementary.
 
-The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established, to ensure that the DAO remains incorruptible over time.
+DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, in which users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
 
-Establishing a DAO may help prepare and position an existing organization or workplace to survive and thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive. Establishing a DAO may also help an organization or workplace continue to attract the best talent in the next generations of workers.
+The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established to ensure that the DAO remains incorruptible over time.
+
+Establishing a DAO may help prepare and position an existing organization or workplace to thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
+
+Establishing a DAO may also help an organization or workplace continue to attract the best talent in the next generations of workers.
 
 The proposal aims to describe solution components—such as new processes and software applications—as well as methodologies to establish a DAO successfully in an existing organization or workplace.
 
@@ -86,7 +90,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ### Software Applications<a name="software"></a>
 
-In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably.
+
 
 <!-- Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum. Ask Jordan (Aragon)? -->
 
