@@ -54,14 +54,7 @@ In the current proposal, the membership of a DAO established in an organization 
 
 The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
-In an organization or workplace operating a DAO, 
-
-
- based on meritocracy
-
-<!-- START HERE Discuss KPIs -->
-
-Responsibilities of the DAO align with KPIs
+In the DAO, decision-making power in the form of tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">4</a></sup> Assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup>
 
 Management and union leadership, if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that the goal of a DAO is building cooperation.
 
@@ -108,7 +101,9 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ## Conclusion<a name="conclusion"></a>
 
-Organizations and workplaces operating DAOs may benefit from increased employee engagement, as well as improved ability to respond to customer needs.
+Within constraints set by management, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work. Managers provide the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams.<sup><a href="#JuliaMartins">5</a></sup> 
+
+
 
 ## Thanks<a name="thanks"></a>
 
@@ -121,4 +116,8 @@ Organizations and workplaces operating DAOs may benefit from increased employee 
 <a name="Veritasium"></a><sup>2</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
 <a name="SterzikTrust"></a><sup>3</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+
+<a name="KPIs"></a><sup>4</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
+
+<a name="JuliaMartins"></a><sup>5</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
