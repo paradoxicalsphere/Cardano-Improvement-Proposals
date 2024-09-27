@@ -68,8 +68,6 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 When designing a DAO, the solution approach informs the solution scope.
 
-<!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
-
 ### Software Applications<a name="software"></a>
 
 
@@ -79,6 +77,8 @@ When designing a DAO, the solution approach informs the solution scope.
 ## Methodologies<a name="methodologies"></a>
 
 <!-- If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO -->
+
+<!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
 <!-- TO-DO: Discuss methodologies with Andrea Gallagher -->
 
