@@ -61,7 +61,7 @@ Responsibilities of the DAO align with KPIs
 
 Management and union leadership, if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that the goal of a DAO is building cooperation.
 
-
+Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/main/dao4web2/images/DAOs%20Within%20Workplaces.png" alt="" title="">
@@ -74,7 +74,7 @@ Management and union leadership, if applicable, are empowered to revise the oper
 
 
 
-Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
+
 
 
 
