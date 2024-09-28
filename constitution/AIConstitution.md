@@ -8,7 +8,7 @@
   <p align="center">
     <code>—Charlie Munger</code>
   </p>
-  <p>After more than two years of planning, preparation and development to implement a governance framework in the <a href="https://roadmap.cardano.org/en/">Voltaire</a> era, currently <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating approximately 75 in-person <a href="https://lu.ma/constitution">Constitutional Workshops</a> held in cities around the world over three months from August to October this year. The workshops are designed with two objectives in mind:</p>
+  <p>After more than two years of planning, preparation and development to implement a governance framework in the <a href="https://roadmap.cardano.org/en/">Voltaire</a> era, currently <a href="https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/drafting-the-constitution-constitutional-workshops">Intersect</a>, in close collaboration with members and steered by the Cardano Civics Committee, is supporting and facilitating approximately 60 in-person <a href="https://lu.ma/constitution">Constitutional Workshops</a> held in cities around the world over three months from August to October this year. The workshops are designed with two objectives in mind:</p>
   
   <ul>
     <li>Gather broad and diverse community input on the <a href="./PDFs/240729-DraftConstitution.pdf">Draft Constitution</a>.</li>
