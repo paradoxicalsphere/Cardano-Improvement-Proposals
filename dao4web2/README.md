@@ -86,6 +86,8 @@ When designing a DAO, the solution approach informs the solution scope.
 
 <!-- Discuss HR and employment standards -->
 
+<!-- What about privacy, for DAO members transacting on chain -->
+
 <!-- Discuss identified problems and problem statements -->
 
 ## Conclusion<a name="conclusion"></a>
