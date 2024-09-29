@@ -9,7 +9,7 @@
 [Methodologies](#methodologies)  
 [Feasibility](#feasibility)  
 [Conclusion](#conclusion)  
-[Thanks](#thanks)  
+[Many Thanks To](#thanks)  
 [References](#references)  
 
 <!-- What's missing? -->
@@ -100,9 +100,11 @@ Within constraints set by management and labor unions, DAOs introduce a layer of
 
 
 
-## Thanks<a name="thanks"></a>
+## Many Thanks To<a name="thanks"></a>
 
 [RnDAO](https://www.rndao.io/)
+
+<!-- Golden Lady, Lawyer Hackathon participant -->
 
 ## References<a name="references"></a>
 
