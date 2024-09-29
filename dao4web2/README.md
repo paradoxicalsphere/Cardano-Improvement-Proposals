@@ -105,6 +105,7 @@ Within constraints set by management and labor unions, DAOs introduce a layer of
 [RnDAO](https://www.rndao.io/)
 
 <!-- Golden Lady, Lawyer Hackathon participant -->
+<!-- Kevin Owocki, Gitcoin 1-on-1 session -->
 
 ## References<a name="references"></a>
 
