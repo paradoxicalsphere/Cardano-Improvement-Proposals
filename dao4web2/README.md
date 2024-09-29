@@ -108,7 +108,7 @@ Within constraints set by management and labor unions, DAOs introduce a layer of
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
 <!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
 <!-- **Jordan Imran, Senior Smart Contract Engineer, Aragon | technology stack -->
-<!-- **Joe Hernandez, Head of Decentralization, Thrive Protocol | product placement -->
+<!-- **Joe Hernandez, Head of Decentralization, Thrive Protocol | product placement, marketing opportunities -->
 <!-- **Gema Diaz, Human Resources Consultant | DAO scope -->
 <!-- Dennison Bertram, Founder, Tally | implementation -->
 <!-- Golden Lady, Lawyer | Hackathon participant -->
