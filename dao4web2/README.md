@@ -104,11 +104,17 @@ Within constraints set by management and labor unions, DAOs introduce a layer of
 
 [RnDAO](https://www.rndao.io/)
 
-<!-- Gema Diaz, Human Resources Consultant DAO scope -->
-<!-- Golden Lady, Lawyer Hackathon participant -->
-<!-- Kevin Owocki, Gitcoin 1-on-1 session -->
-<!-- Jordan Imran, Aragon technology stack -->
-<!-- Andrea Gallagher, RnDAO Research Lead methodologies -->
+<!-- Gema Diaz, Human Resources Consultant | DAO scope -->
+<!-- Golden Lady, Lawyer | Hackathon participant -->
+<!-- Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
+<!-- Jordan Imran, Senior Smart Contract Engineer, Aragon | technology stack -->
+<!-- Andrea Gallagher, Research Lead, RnDAO | methodologies -->
+<!-- Joe Hernandez, Head of Decentralization, Thrive Protocol | product placement -->
+<!-- Nick Almond, Founder, Factory DAO | implementation -->
+<!-- Dennison Bertram, Founder, Tally | implementation -->
+<!-- Earth2Travis, Founder, Yeeter | funding -->
+<!-- Ana Maria Y. | funding -->
+
 
 
 ## References<a name="references"></a>
