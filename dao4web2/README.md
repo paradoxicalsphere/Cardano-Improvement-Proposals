@@ -72,7 +72,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 
 
-<!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan (Aragon) -->
+<!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
 ## Methodologies<a name="methodologies"></a>
 
@@ -104,8 +104,12 @@ Within constraints set by management and labor unions, DAOs introduce a layer of
 
 [RnDAO](https://www.rndao.io/)
 
+<!-- Gema Diaz, Human Resources Consultant DAO scope -->
 <!-- Golden Lady, Lawyer Hackathon participant -->
 <!-- Kevin Owocki, Gitcoin 1-on-1 session -->
+<!-- Jordan Imran, Aragon technology stack -->
+<!-- Andrea Gallagher, RnDAO Research Lead methodologies -->
+
 
 ## References<a name="references"></a>
 
