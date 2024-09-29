@@ -50,7 +50,7 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working
 
 ### New Processes<a name="components"></a>
 
-In the current proposal, the membership of a DAO established in an organization or workplace is comprised of employees. Depending on the business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams, management or union leadership.
+In the current proposal, the membership of a DAO established in an organization or workplace is comprised of employees. Depending on business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams, management or union leadership.
 
 The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
