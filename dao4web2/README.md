@@ -84,9 +84,9 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ## Feasibility<a name="feasibility"></a>
 
-<!-- Discuss HR and employment standards -->
+<!-- Discuss HR and employment standards that may apply to scope of DAO responsibilities -->
 
-<!-- What about privacy, for DAO members transacting on chain -->
+<!-- What about privacy considerations, for DAO members transacting on chain? -->
 
 <!-- Discuss identified problems and problem statements -->
 
