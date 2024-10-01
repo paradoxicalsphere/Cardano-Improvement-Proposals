@@ -80,6 +80,8 @@ When designing a DAO, the solution approach informs the solution scope.
 
 DAO participants must also understand that infinite games may be played as finite games, in which case the game ends just like a finite game, with winners and losers. In a DAO, any player who recognizes that the game may be ending has an obligation to change the rules so that the game may continue. -->
 
+<!-- Explore tying DAO tokens directly to salary, stick options, vacation or other financial incentives? -->
+
 <!-- If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO -->
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
