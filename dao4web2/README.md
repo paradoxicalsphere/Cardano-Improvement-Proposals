@@ -78,7 +78,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 <!-- Successful implementation involves training and education for all stakeholders in the DAO within the organization. For example, education in preparation for implementing a DAO includes an introduction and practice related to game theory, including the prisoners dilemma (use Greenpilled as a resource in planning the curriculum of the education). In finite games, the goal is to win. In an infinite game, the goal is to continue playing. Activities may include playing games that demonstrate cooperation is more rewarding for players than self-interest.
 
-DAO participants must also understand that infinite games may be played as finite games, in which case the game ends just like a finite game, with winners and losers. In a DAO, any player who recognizes that the game may be ending has an obligation to change the rules so that the game may continue. -->
+DAO participants must also understand that infinite games may be played as finite games, in which case the game ends just like a finite game, with winners and losers. In a DAO, any player who recognizes that the game may be ending has an obligation to change the rules so that the game may continue. All participants in the DAO need the intention, and need to understand the critical importance of the intention to the survival of the DAO, to keep playing the game, rather than ending the game. -->
 
 <!-- Explore tying DAO tokens directly to salary, stick options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
 
