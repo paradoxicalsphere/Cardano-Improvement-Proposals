@@ -76,6 +76,10 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ## Methodologies<a name="methodologies"></a>
 
+<!-- Successful implementation involves training and education for all stakeholders in the DAO within the organization. For example, education in preparation for implementing a DAO includes an introduction and practice related to game theory, including the prisoners dilemma (use Greenpilled as a resource in planning the curriculum of the education). In finite games, the goal is to win. In an infinite game, the goal is to continue playing. Activities may include playing games that demonstrate cooperation is more rewarding for players than self-interest.
+
+DAO participants must also understand that infinite games may be played as finite games, in which case the game ends just like a finite game, with winners and losers. In a DAO, any player who recognizes that the game may be ending has an obligation to change the rules so that the game may continue. -->
+
 <!-- If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO -->
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
