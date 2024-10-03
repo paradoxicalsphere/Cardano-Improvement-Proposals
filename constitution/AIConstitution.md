@@ -2,9 +2,7 @@
 
 <blockquote>
 
-  <p>While Cardano has the potential to make the world a better place, Cardano also has the potential to make the world worse off.</p>
-  
-  <p>What is the purpose of the Cardano Constitution? The Cardano Constitution is a catalyst in a time of climate change, high inflation and escalating war.</p>
+  <p>While Cardano has the potential to make the world a better place, Cardano also has the potential to make the world worse off. What is the purpose of the Cardano Constitution? The Cardano Constitution is a catalyst in a time of climate change, high inflation and escalating war.</p>
   <p align="center">
     <code>"Show me the incentive, and I’ll show you the outcome."</code>
   </p>
