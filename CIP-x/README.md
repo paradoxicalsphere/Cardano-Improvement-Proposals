@@ -10,7 +10,7 @@ Cardano Stake Pool: [Change](https://change.paradoxicalsphere.com)
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
-License: DMCA  
+License: [DMCA](https://www.dmca.com/r/69428j8)  
 
 ---
 
