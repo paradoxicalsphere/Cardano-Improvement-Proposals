@@ -2,6 +2,13 @@
 
 <blockquote>
 
+<p align="center">
+    <code>"The power to do good is also the power to do harm."</code>
+  </p>
+  <p align="center">
+    <code>—Milton Friedman</code>
+  </p>
+
   <p>While Cardano has the potential to make the world a better place, Cardano also has the potential to make the world worse off. What is the purpose of the Cardano Constitution? The Cardano Constitution is a catalyst in a time of climate change, high inflation and escalating war.</p>
   <p align="center">
     <code>"Show me the incentive, and I’ll show you the outcome."</code>
