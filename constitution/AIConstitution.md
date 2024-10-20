@@ -39,7 +39,7 @@
     <code>—Dr. Wayne W. Dyer</code>
   </p>
   
-  <p>Cardano sets no age limit. In a side-by-side comparison, how do you, your family and friends feel about the Draft Constitution and chatbot processing? Which document seems more right? Which seems more kind?</p>
+  <p>Cardano sets no age limit for participating in the ecosystem. In a side-by-side comparison, how do you, your family and friends feel about the Draft Constitution and chatbot processing? Which document seems more right? Which seems more kind?</p>
   
   <p>There seems some irony in the observation that the draft prepared by human beings seeks to incorporate elements of desiring to use bots and algorithms in Cardano governance, while asking a chatbot to prepare a constitution returns a document focussed solely on people acting intelligently in ways that benefit both themselves and others.</p>
     
