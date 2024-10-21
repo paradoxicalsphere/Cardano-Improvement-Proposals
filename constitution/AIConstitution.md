@@ -47,7 +47,7 @@
     
   <p>Others may conclude that the idea of implementing script-based DReps should consequently be removed from the Constitution to encourage fostering and celebrating a deeper, more robust understanding and awareness of the governance process between people engaged in relationship in the Cardano ecosystem... or, perhaps simply to follow the implicit suggestion of the chatbot.</p>
     
-  <p>Decentralization and healthy organizational function are not equivalent. Considering incentives and outcomes, how important to Cardano is people understanding how to protect their rights?</p>
+  <p>Decentralization and healthy organizational function are not synonymous. Considering incentives and outcomes, how important to Cardano is people understanding how to protect their rights?</p>
   
   <p>—<a href="https://change.paradoxicalsphere.com">paradoxicalsphere</a> (September 2024)</p>
 </blockquote>
